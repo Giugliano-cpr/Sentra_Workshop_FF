@@ -9,7 +9,20 @@ import detection
 
 PRODUCT = "SENTRA"
 TAGLINE = "Procurement Anomaly Intelligence"
-DATA_PATH = Path("data/beschaffungsdaten.csv")
+DATA_PATH = BASE_DIR / "data" / "beschaffungsdaten.csv"
+LOGO_SVG = """
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="8"  cy="8"  r="2.3" fill="#CBD5E1"/>
+  <circle cx="18" cy="8"  r="2.3" fill="#94A3B8"/>
+  <circle cx="8"  cy="18" r="2.3" fill="#94A3B8"/>
+  <circle cx="18" cy="18" r="2.3" fill="#CBD5E1"/>
+  <circle cx="8"  cy="28" r="2.3" fill="#CBD5E1"/>
+  <circle cx="18" cy="28" r="2.3" fill="#94A3B8"/>
+  <circle cx="28" cy="28" r="2.3" fill="#CBD5E1"/>
+  <circle cx="28" cy="18" r="5.0" fill="none" stroke="#B42318" stroke-width="1.5"/>
+  <circle cx="28" cy="18" r="2.6" fill="#B42318"/>
+</svg>
+"""
 
 st.set_page_config(page_title=f"{PRODUCT} – {TAGLINE}", layout="wide")
 
@@ -91,7 +104,20 @@ def existing(df: pd.DataFrame, cols: list[str]) -> list[str]:
 
 
 apply_css()
-st.markdown(f"<div class='hero'><div class='brand'>{PRODUCT}</div><div class='tag'>{TAGLINE}</div></div>", unsafe_allow_html=True)
+st.markdown(
+    f"""
+    <div class='hero'>
+        <div style="display:flex;align-items:center;gap:12px;">
+            <div>{LOGO_SVG}</div>
+            <div>
+                <div class='brand'>{PRODUCT}</div>
+                <div class='tag'>{TAGLINE}</div>
+            </div>
+        </div>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 
 with st.sidebar:
     st.header("Datenquelle")
