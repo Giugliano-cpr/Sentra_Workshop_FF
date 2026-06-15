@@ -1,0 +1,815 @@
+﻿rechnung_id,bestell_id,bestelldatum,lieferant,kategorie,material_id,menge,stueckpreis,gesamtbetrag,lieferzeit_tage,anomalie_typ
+INV-100247,PO-500247,2025-09-08,Theta Werkzeuge,Verpackung,MAT-1078,65,2.5,162.5,10,normal
+INV-100589,PO-500589,2025-10-26,Eta Industriebedarf,Werkzeuge,MAT-1089,172,54.3,9339.6,10,normal
+INV-100227,PO-500227,2025-05-29,Epsilon Rohstoffe,Verpackung,MAT-1052,153,2.21,338.13,14,normal
+INV-100291,PO-500291,2025-07-26,Alpha Components GmbH,Rohmaterial,MAT-1032,187,11.01,2058.87,11,normal
+INV-100539,PO-500539,2025-08-01,Theta Werkzeuge,Werkzeuge,MAT-1070,187,43.17,8072.79,11,normal
+INV-ML-8,PO-920008,2025-03-28,Eta Industriebedarf,Verpackung,MAT-1074,559,4.11,2297.49,44,multivariater_ausreisser
+INV-100198,PO-500198,2025-03-31,Eta Industriebedarf,Elektronik,MAT-1080,106,138.11,14639.66,4,normal
+INV-100294,PO-500294,2025-05-23,Iota Plastics,Werkzeuge,MAT-1060,83,19.54,1621.82,12,normal
+INV-100445,PO-500445,2025-06-16,Delta Elektronik,Elektronik,MAT-1047,74,159.38,11794.12,11,normal
+INV-100423,PO-500423,2025-01-17,Beta Metalltechnik,Verpackung,MAT-1042,161,1.85,297.85,11,normal
+INV-100066,PO-500066,2025-12-19,Iota Plastics,Logistik,MAT-1100,118,309.15,36479.7,12,normal
+INV-100231,PO-500231,2025-09-04,Kappa Services,Rohmaterial,MAT-1109,62,8.93,553.66,16,normal
+INV-100453,PO-500453,2025-04-08,Theta Werkzeuge,Verpackung,MAT-1060,216,17.39,3756.24,10,preisabweichung
+INV-ML-18,PO-920018,2025-03-19,Kappa Services,Elektronik,MAT-1053,735,315.59,231958.65,55,multivariater_ausreisser
+INV-100259,PO-500259,2025-02-13,Theta Werkzeuge,Rohmaterial,MAT-1010,211,46.63,9839.98,12,knapp_unter_grenze
+INV-DUP-0,PO-500730,2025-07-23,Eta Industriebedarf,Logistik,MAT-1024,155,249.37,38652.35,14,doppelte_rechnung
+INV-100451,PO-500451,2025-01-06,Alpha Components GmbH,Elektronik,MAT-1054,42,148.07,6218.94,19,normal
+INV-100109,PO-500109,2025-07-07,Iota Plastics,Verpackung,MAT-1088,211,3.54,746.94,14,normal
+INV-100328,PO-500328,2025-06-16,Eta Industriebedarf,Logistik,MAT-1023,172,388.03,66741.16,14,normal
+INV-100532,PO-500532,2025-12-23,Zeta Verpackung,Verpackung,MAT-1016,24,2.95,70.8,17,normal
+INV-100139,PO-500139,2025-01-18,Delta Elektronik,Logistik,MAT-1013,209,198.86,41561.74,15,normal
+INV-100067,PO-500067,2025-04-08,Alpha Components GmbH,Verpackung,MAT-1016,55,2.57,141.35,5,normal
+INV-100603,PO-500603,2025-03-05,Gamma Logistik AG,Werkzeuge,MAT-1091,117,49.54,5796.18,18,normal
+INV-100357,PO-500357,2025-09-30,Beta Metalltechnik,Logistik,MAT-1044,75,292.84,21963.0,18,normal
+INV-100039,PO-500039,2025-11-22,Gamma Logistik AG,Bueromaterial,MAT-1107,186,4.58,851.88,15,preisabweichung
+INV-100030,PO-500030,2025-01-24,Alpha Components GmbH,Verpackung,MAT-1033,106,2.63,278.78,28,normal
+INV-100732,PO-500732,2025-01-30,Gamma Logistik AG,Verpackung,MAT-1054,61,2.64,161.04,9,normal
+INV-100208,PO-500208,2025-07-15,Zeta Verpackung,Werkzeuge,MAT-1086,192,35.37,6791.04,4,normal
+INV-100209,PO-500209,2025-12-10,Alpha Components GmbH,Rohmaterial,MAT-1106,9,39.3,353.7,11,preisabweichung
+INV-100078,PO-500078,2025-03-28,Zeta Verpackung,Bueromaterial,MAT-1016,176,19.85,3493.6,16,normal
+INV-100659,PO-500659,2025-12-24,Theta Werkzeuge,Verpackung,MAT-1011,188,2.2,413.6,19,normal
+INV-100644,PO-500644,2025-05-05,Eta Industriebedarf,Verpackung,MAT-1061,129,3.72,479.88,16,normal
+INV-SPLIT-1-1,PO-880004,2025-10-12,Beta Metalltechnik,Elektronik,MAT-1005,99,80.02,7922.42,22,auftragssplitting
+INV-100727,PO-500727,2025-12-07,Iota Plastics,Elektronik,MAT-1112,26,93.12,2421.12,16,normal
+INV-100706,PO-500706,2025-12-22,Zeta Verpackung,Rohmaterial,MAT-1080,154,8.81,1356.74,29,normal
+INV-100023,PO-500023,2025-04-10,Alpha Components GmbH,Logistik,MAT-1011,162,243.98,39524.76,12,normal
+INV-100352,PO-500352,2025-12-31,Iota Plastics,Logistik,MAT-1050,31,251.01,7781.31,10,normal
+INV-100543,PO-500543,2025-10-30,Delta Elektronik,Werkzeuge,MAT-1071,197,30.59,6026.23,10,normal
+INV-100063,PO-500063,2025-11-01,Beta Metalltechnik,Verpackung,MAT-1006,21,2.06,43.26,16,normal
+INV-100192,PO-500192,2025-05-08,Eta Industriebedarf,Werkzeuge,MAT-1068,87,48.65,4232.55,10,normal
+INV-100065,PO-500065,2025-08-23,Eta Industriebedarf,Bueromaterial,MAT-1093,138,15.79,2179.02,13,normal
+INV-100712,PO-500712,2025-12-12,Zeta Verpackung,Logistik,MAT-1085,71,320.43,22750.53,9,normal
+INV-100725,PO-500725,2025-01-10,Beta Metalltechnik,Logistik,MAT-1113,29,189.35,5491.15,9,normal
+INV-100137,PO-500137,2025-05-31,Alpha Components GmbH,Bueromaterial,MAT-1095,53,9.68,513.04,20,normal
+INV-100479,PO-500479,2025-04-04,Eta Industriebedarf,Werkzeuge,MAT-1116,212,55.68,11804.16,12,normal
+INV-100211,PO-500211,2025-02-15,Beta Metalltechnik,Werkzeuge,MAT-1114,79,45.76,3615.04,19,normal
+INV-100531,PO-500531,2025-06-02,Beta Metalltechnik,Bueromaterial,MAT-1064,110,12.01,1321.1,26,normal
+INV-ML-5,PO-920005,2025-11-17,Alpha Components GmbH,Bueromaterial,MAT-1007,648,28.59,18526.32,59,multivariater_ausreisser
+INV-100398,PO-500398,2025-05-01,Epsilon Rohstoffe,Verpackung,MAT-1099,19,2.84,53.96,11,normal
+INV-100572,PO-500572,2025-11-02,Eta Industriebedarf,Werkzeuge,MAT-1062,209,49.08,10257.72,13,normal
+INV-100685,PO-500685,2025-04-09,Kappa Services,Werkzeuge,MAT-1032,178,40.08,7134.24,16,normal
+INV-100411,PO-500411,2025-06-10,Gamma Logistik AG,Werkzeuge,MAT-1118,206,51.74,10658.44,9,normal
+INV-100593,PO-500593,2025-01-12,Kappa Services,Bueromaterial,MAT-1047,119,18.62,2215.78,17,normal
+INV-100675,PO-500675,2025-01-06,Zeta Verpackung,Rohmaterial,MAT-1115,70,9.23,646.1,17,normal
+INV-100570,PO-500570,2025-10-12,Eta Industriebedarf,Bueromaterial,MAT-1103,169,15.44,2609.36,9,normal
+INV-100424,PO-500424,2025-07-18,Eta Industriebedarf,Verpackung,MAT-1029,5,1.7,8.5,14,normal
+INV-100629,PO-500629,2025-06-01,Eta Industriebedarf,Werkzeuge,MAT-1063,215,51.76,11128.4,16,normal
+INV-100086,PO-500086,2025-02-04,Epsilon Rohstoffe,Elektronik,MAT-1086,151,122.7,18527.7,7,normal
+INV-100582,PO-500582,2025-05-04,Theta Werkzeuge,Rohmaterial,MAT-1110,64,8.12,519.68,17,normal
+INV-100551,PO-500551,2025-04-12,Iota Plastics,Logistik,MAT-1006,157,349.15,54816.55,16,normal
+INV-100668,PO-500668,2025-07-30,Eta Industriebedarf,Bueromaterial,MAT-1107,2,18.08,36.16,11,normal
+INV-100628,PO-500628,2025-04-10,Kappa Services,Verpackung,MAT-1055,71,2.46,174.66,19,normal
+INV-100120,PO-500120,2025-01-16,Epsilon Rohstoffe,Rohmaterial,MAT-1057,18,8.2,147.6,12,normal
+INV-100174,PO-500174,2025-09-26,Delta Elektronik,Logistik,MAT-1046,18,320.45,5768.1,11,normal
+INV-SPLIT-1-0,PO-880003,2025-10-10,Beta Metalltechnik,Elektronik,MAT-1005,107,61.36,6565.78,17,auftragssplitting
+INV-100168,PO-500168,2025-02-26,Beta Metalltechnik,Bueromaterial,MAT-1084,42,17.42,731.64,19,normal
+INV-100286,PO-500286,2025-12-21,Kappa Services,Werkzeuge,MAT-1021,57,36.64,2088.48,16,normal
+INV-100049,PO-500049,2025-01-10,Zeta Verpackung,Bueromaterial,MAT-1066,110,12.91,1420.1,14,normal
+INV-100096,PO-500096,2025-06-13,Beta Metalltechnik,Werkzeuge,MAT-1097,138,36.63,5054.94,9,normal
+INV-100155,PO-500155,2025-06-23,Kappa Services,Logistik,MAT-1119,189,349.01,65962.89,11,normal
+INV-100671,PO-500671,2025-08-25,Alpha Components GmbH,Rohmaterial,MAT-1093,181,10.32,1867.92,7,normal
+INV-100495,PO-500495,2025-07-14,Kappa Services,Werkzeuge,MAT-1092,152,36.87,5604.24,14,normal
+INV-100596,PO-500596,2025-01-27,Gamma Logistik AG,Werkzeuge,MAT-1036,141,68.93,9719.13,14,normal
+INV-ML-17,PO-920017,2025-08-10,Gamma Logistik AG,Logistik,MAT-1067,755,797.42,602052.1,59,multivariater_ausreisser
+INV-100033,PO-500033,2025-02-21,Delta Elektronik,Elektronik,MAT-1066,119,123.93,14747.67,5,normal
+INV-100031,PO-500031,2025-07-28,Zeta Verpackung,Verpackung,MAT-1056,36,2.67,96.12,15,normal
+INV-DUP-10,PO-500052,2025-04-16,Iota Plastics,Bueromaterial,MAT-1030,4,18.62,74.48,3,doppelte_rechnung
+INV-100275,PO-500275,2025-08-15,Epsilon Rohstoffe,Elektronik,MAT-1014,101,74.73,7547.73,20,normal
+INV-100649,PO-500649,2025-10-11,Beta Metalltechnik,Bueromaterial,MAT-1017,21,15.91,334.11,12,normal
+INV-100382,PO-500382,2025-05-30,Theta Werkzeuge,Rohmaterial,MAT-1095,48,8.62,413.76,5,normal
+INV-100210,PO-500210,2025-06-14,Zeta Verpackung,Rohmaterial,MAT-1047,114,10.82,1233.48,12,normal
+INV-100433,PO-500433,2025-04-24,Kappa Services,Bueromaterial,MAT-1116,120,14.83,1779.6,8,normal
+INV-ML-12,PO-920012,2025-03-29,Eta Industriebedarf,Elektronik,MAT-1097,451,235.73,106314.23,52,multivariater_ausreisser
+INV-100072,PO-500072,2025-01-13,Gamma Logistik AG,Elektronik,MAT-1071,64,144.74,9263.36,13,normal
+INV-100077,PO-500077,2025-06-20,Eta Industriebedarf,Rohmaterial,MAT-1062,105,8.91,935.55,14,normal
+INV-100494,PO-500494,2025-09-12,Gamma Logistik AG,Werkzeuge,MAT-1036,85,26.44,2247.4,12,normal
+INV-100516,PO-500516,2025-01-01,Alpha Components GmbH,Bueromaterial,MAT-1118,64,18.49,1183.36,10,normal
+INV-100351,PO-500351,2025-10-24,Kappa Services,Logistik,MAT-1031,50,346.29,17314.5,12,normal
+INV-100602,PO-500602,2025-04-04,Theta Werkzeuge,Logistik,MAT-1011,40,321.93,12877.2,5,normal
+INV-100326,PO-500326,2025-08-07,Kappa Services,Logistik,MAT-1002,140,317.4,44436.0,12,normal
+INV-100527,PO-500527,2025-08-06,Beta Metalltechnik,Logistik,MAT-1118,68,288.68,19630.24,13,normal
+INV-100404,PO-500404,2025-09-16,Alpha Components GmbH,Verpackung,MAT-1025,169,1.76,297.44,13,normal
+INV-100344,PO-500344,2025-09-17,Alpha Components GmbH,Verpackung,MAT-1069,101,2.98,300.98,17,normal
+INV-100636,PO-500636,2025-08-24,Eta Industriebedarf,Bueromaterial,MAT-1065,215,97.25,20908.75,9,preisabweichung
+INV-100362,PO-500362,2025-03-19,Kappa Services,Rohmaterial,MAT-1064,64,8.29,530.56,15,normal
+INV-100486,PO-500486,2025-09-21,Kappa Services,Verpackung,MAT-1091,35,2.12,74.2,20,normal
+INV-100311,PO-500311,2025-11-25,Gamma Logistik AG,Logistik,MAT-1116,212,310.64,65855.68,20,normal
+INV-100409,PO-500409,2025-12-28,Beta Metalltechnik,Rohmaterial,MAT-1063,2,9.0,18.0,12,normal
+INV-100615,PO-500615,2025-08-17,Iota Plastics,Bueromaterial,MAT-1042,116,13.61,1578.76,9,normal
+INV-100212,PO-500212,2025-05-16,Zeta Verpackung,Bueromaterial,MAT-1115,209,15.93,3329.37,13,normal
+INV-100581,PO-500581,2025-10-05,Kappa Services,Logistik,MAT-1068,181,358.08,64812.48,16,normal
+INV-100054,PO-500054,2025-02-11,Eta Industriebedarf,Rohmaterial,MAT-1115,91,6.68,607.88,6,normal
+INV-DUP-14,PO-500181,2025-08-08,Beta Metalltechnik,Werkzeuge,MAT-1027,12,43.77,525.24,19,doppelte_rechnung
+INV-100396,PO-500396,2025-12-04,Beta Metalltechnik,Verpackung,MAT-1039,134,0.55,73.7,10,preisabweichung
+INV-100260,PO-500260,2025-01-23,Delta Elektronik,Elektronik,MAT-1083,39,145.75,5684.25,15,normal
+INV-100497,PO-500497,2025-06-06,Kappa Services,Bueromaterial,MAT-1083,156,16.83,2625.48,18,normal
+INV-100097,PO-500097,2025-09-17,Zeta Verpackung,Logistik,MAT-1117,22,278.52,6127.44,7,normal
+INV-100428,PO-500428,2025-07-14,Alpha Components GmbH,Verpackung,MAT-1036,45,2.74,123.3,8,normal
+INV-100076,PO-500076,2025-07-09,Eta Industriebedarf,Logistik,MAT-1020,130,259.73,33764.9,19,normal
+INV-100204,PO-500204,2025-11-01,Epsilon Rohstoffe,Logistik,MAT-1013,65,207.86,13510.9,13,normal
+INV-100610,PO-500610,2025-03-22,Theta Werkzeuge,Rohmaterial,MAT-1072,195,9.06,1766.7,13,normal
+INV-SPLIT-2-3,PO-880010,2025-06-23,Iota Plastics,Rohmaterial,MAT-1005,75,69.51,5213.61,6,auftragssplitting
+INV-100213,PO-500213,2025-02-13,Beta Metalltechnik,Rohmaterial,MAT-1110,84,9.41,790.44,18,normal
+INV-100585,PO-500585,2025-03-24,Delta Elektronik,Verpackung,MAT-1100,168,2.92,490.56,13,normal
+INV-SPLIT-3-0,PO-880011,2025-03-27,Eta Industriebedarf,Rohmaterial,MAT-1030,92,68.63,6313.54,13,auftragssplitting
+INV-100457,PO-500457,2025-01-12,Epsilon Rohstoffe,Bueromaterial,MAT-1047,44,222.73,9800.21,17,knapp_unter_grenze
+INV-100084,PO-500084,2025-01-02,Theta Werkzeuge,Elektronik,MAT-1101,83,153.22,12717.26,16,normal
+INV-100010,PO-500010,2025-08-21,Beta Metalltechnik,Bueromaterial,MAT-1099,64,17.61,1127.04,14,normal
+INV-100734,PO-500734,2025-05-17,Beta Metalltechnik,Rohmaterial,MAT-1023,75,7.26,544.5,13,normal
+INV-100110,PO-500110,2025-09-25,Zeta Verpackung,Elektronik,MAT-1032,202,118.58,23953.16,16,normal
+INV-100436,PO-500436,2025-08-04,Eta Industriebedarf,Rohmaterial,MAT-1057,187,6.98,1305.26,14,normal
+INV-100485,PO-500485,2025-08-03,Delta Elektronik,Bueromaterial,MAT-1086,27,16.0,432.0,10,normal
+INV-ML-1,PO-920001,2025-03-31,Eta Industriebedarf,Bueromaterial,MAT-1047,806,38.69,31184.14,47,multivariater_ausreisser
+INV-100534,PO-500534,2025-02-08,Alpha Components GmbH,Elektronik,MAT-1006,198,59.02,11685.96,14,normal
+INV-100528,PO-500528,2025-05-23,Zeta Verpackung,Verpackung,MAT-1073,42,3.1,130.2,17,normal
+INV-100393,PO-500393,2025-11-09,Iota Plastics,Bueromaterial,MAT-1009,142,17.01,2415.42,15,normal
+INV-100118,PO-500118,2025-12-02,Kappa Services,Logistik,MAT-1114,37,353.87,13093.19,9,normal
+INV-100388,PO-500388,2025-01-23,Kappa Services,Rohmaterial,MAT-1010,27,7.01,189.27,14,normal
+INV-100215,PO-500215,2025-10-26,Iota Plastics,Werkzeuge,MAT-1088,32,15.69,502.08,5,normal
+INV-100029,PO-500029,2025-08-04,Gamma Logistik AG,Bueromaterial,MAT-1002,135,10.87,1467.45,6,normal
+INV-100309,PO-500309,2025-09-16,Zeta Verpackung,Bueromaterial,MAT-1099,28,18.74,524.72,18,normal
+INV-100342,PO-500342,2025-08-18,Eta Industriebedarf,Elektronik,MAT-1002,204,47.77,9744.23,7,knapp_unter_grenze
+INV-100244,PO-500244,2025-04-16,Kappa Services,Verpackung,MAT-1075,136,2.27,308.72,13,normal
+INV-SPLIT-3-1,PO-880012,2025-03-27,Eta Industriebedarf,Rohmaterial,MAT-1030,87,83.32,7248.69,20,auftragssplitting
+INV-100081,PO-500081,2025-05-13,Zeta Verpackung,Bueromaterial,MAT-1037,175,4.02,703.5,13,preisabweichung
+INV-100656,PO-500656,2025-09-30,Gamma Logistik AG,Logistik,MAT-1059,133,409.86,54511.38,10,normal
+INV-100587,PO-500587,2025-07-29,Delta Elektronik,Logistik,MAT-1056,162,349.63,56640.06,18,normal
+INV-100517,PO-500517,2025-01-09,Iota Plastics,Bueromaterial,MAT-1006,66,13.48,889.68,9,normal
+INV-100696,PO-500696,2025-07-17,Alpha Components GmbH,Rohmaterial,MAT-1096,22,6.82,150.04,20,normal
+INV-100319,PO-500319,2025-05-07,Beta Metalltechnik,Werkzeuge,MAT-1010,28,57.61,1613.08,25,normal
+INV-100653,PO-500653,2025-08-26,Gamma Logistik AG,Werkzeuge,MAT-1015,44,39.63,1743.72,19,normal
+INV-100657,PO-500657,2025-08-11,Eta Industriebedarf,Elektronik,MAT-1094,46,125.61,5778.06,10,normal
+INV-DUP-12,PO-500128,2025-08-18,Eta Industriebedarf,Elektronik,MAT-1046,88,128.36,11295.68,18,doppelte_rechnung
+INV-100199,PO-500199,2025-04-18,Delta Elektronik,Verpackung,MAT-1091,30,2.5,75.0,13,normal
+INV-100601,PO-500601,2025-05-02,Zeta Verpackung,Elektronik,MAT-1032,8,137.28,1098.24,16,normal
+INV-100523,PO-500523,2025-11-15,Gamma Logistik AG,Rohmaterial,MAT-1072,177,8.78,1554.06,14,normal
+INV-100007,PO-500007,2025-05-16,Alpha Components GmbH,Logistik,MAT-1056,199,269.27,53584.73,19,normal
+INV-100715,PO-500715,2025-01-14,Gamma Logistik AG,Werkzeuge,MAT-1096,148,51.27,7587.96,6,normal
+INV-100101,PO-500101,2025-04-20,Epsilon Rohstoffe,Werkzeuge,MAT-1069,119,58.21,6926.99,19,normal
+INV-100329,PO-500329,2025-08-30,Theta Werkzeuge,Bueromaterial,MAT-1080,96,20.36,1954.56,10,normal
+INV-100235,PO-500235,2025-12-08,Iota Plastics,Bueromaterial,MAT-1102,39,13.33,519.87,9,normal
+INV-100637,PO-500637,2025-03-16,Iota Plastics,Bueromaterial,MAT-1074,89,17.94,1596.66,16,normal
+INV-100332,PO-500332,2025-02-11,Theta Werkzeuge,Verpackung,MAT-1026,44,2.49,109.56,13,normal
+INV-100002,PO-500002,2025-03-08,Kappa Services,Bueromaterial,MAT-1093,99,17.64,1746.36,19,normal
+INV-100744,PO-500744,2025-12-09,Kappa Services,Werkzeuge,MAT-1062,151,40.56,6124.56,13,normal
+INV-100728,PO-500728,2025-06-27,Alpha Components GmbH,Logistik,MAT-1023,136,344.48,46849.28,19,normal
+INV-100525,PO-500525,2025-10-06,Beta Metalltechnik,Elektronik,MAT-1118,65,107.71,7001.15,18,normal
+INV-ML-2,PO-920002,2025-05-02,Beta Metalltechnik,Rohmaterial,MAT-1116,577,14.66,8458.82,51,multivariater_ausreisser
+INV-100676,PO-500676,2025-01-05,Kappa Services,Werkzeuge,MAT-1078,159,29.52,4693.68,4,normal
+INV-100440,PO-500440,2025-10-20,Kappa Services,Rohmaterial,MAT-1030,185,9.36,1731.6,11,normal
+INV-DUP-8,PO-500091,2025-10-14,Iota Plastics,Elektronik,MAT-1023,188,115.51,21715.88,12,doppelte_rechnung
+INV-100518,PO-500518,2025-10-08,Epsilon Rohstoffe,Logistik,MAT-1034,52,273.92,14243.84,23,normal
+INV-100664,PO-500664,2025-05-08,Theta Werkzeuge,Verpackung,MAT-1071,52,2.37,123.24,8,normal
+INV-100239,PO-500239,2025-08-24,Eta Industriebedarf,Verpackung,MAT-1034,133,3.09,410.97,14,normal
+INV-100446,PO-500446,2025-03-16,Zeta Verpackung,Elektronik,MAT-1017,83,113.7,9437.1,14,normal
+INV-100334,PO-500334,2025-03-11,Iota Plastics,Verpackung,MAT-1087,64,2.73,174.72,17,normal
+INV-100598,PO-500598,2025-07-08,Zeta Verpackung,Verpackung,MAT-1110,3,2.12,6.36,8,normal
+INV-100533,PO-500533,2025-03-14,Theta Werkzeuge,Elektronik,MAT-1091,22,92.48,2034.56,21,normal
+INV-100079,PO-500079,2025-02-02,Epsilon Rohstoffe,Bueromaterial,MAT-1078,158,10.26,1621.08,18,normal
+INV-100148,PO-500148,2025-03-22,Epsilon Rohstoffe,Elektronik,MAT-1041,86,110.24,9480.64,22,normal
+INV-100355,PO-500355,2025-01-02,Zeta Verpackung,Verpackung,MAT-1068,149,2.0,298.0,2,normal
+INV-100426,PO-500426,2025-03-07,Alpha Components GmbH,Werkzeuge,MAT-1103,133,23.44,3117.52,6,normal
+INV-100420,PO-500420,2025-08-05,Kappa Services,Elektronik,MAT-1040,3,114.77,344.31,15,normal
+INV-100299,PO-500299,2025-01-15,Zeta Verpackung,Logistik,MAT-1055,30,206.23,6186.9,15,normal
+INV-100314,PO-500314,2025-02-01,Alpha Components GmbH,Rohmaterial,MAT-1037,204,10.22,2084.88,4,normal
+INV-100292,PO-500292,2025-03-20,Zeta Verpackung,Verpackung,MAT-1028,170,1.65,280.5,6,normal
+INV-100133,PO-500133,2025-02-11,Zeta Verpackung,Bueromaterial,MAT-1087,17,11.78,200.26,8,normal
+INV-100618,PO-500618,2025-01-08,Alpha Components GmbH,Logistik,MAT-1024,41,271.81,11144.21,8,normal
+INV-100218,PO-500218,2025-07-13,Epsilon Rohstoffe,Logistik,MAT-1034,47,90.26,4242.22,13,preisabweichung
+INV-100698,PO-500698,2025-09-27,Delta Elektronik,Verpackung,MAT-1083,9,2.81,25.29,14,normal
+INV-100055,PO-500055,2025-03-28,Kappa Services,Bueromaterial,MAT-1089,59,21.39,1262.01,23,normal
+INV-100432,PO-500432,2025-09-14,Theta Werkzeuge,Werkzeuge,MAT-1022,163,34.06,5551.78,19,normal
+INV-ML-14,PO-920014,2025-11-24,Iota Plastics,Werkzeuge,MAT-1045,734,114.18,83808.12,59,multivariater_ausreisser
+INV-100450,PO-500450,2025-12-17,Zeta Verpackung,Logistik,MAT-1064,10,1187.77,11877.7,6,preisabweichung
+INV-100745,PO-500745,2025-09-13,Gamma Logistik AG,Verpackung,MAT-1116,87,2.56,222.72,13,normal
+INV-100507,PO-500507,2025-06-09,Alpha Components GmbH,Logistik,MAT-1038,192,157.12,30167.04,15,normal
+INV-100733,PO-500733,2025-11-19,Iota Plastics,Verpackung,MAT-1035,124,2.37,293.88,15,normal
+INV-100300,PO-500300,2025-07-29,Beta Metalltechnik,Bueromaterial,MAT-1059,47,3.38,158.86,8,preisabweichung
+INV-100383,PO-500383,2025-12-16,Epsilon Rohstoffe,Rohmaterial,MAT-1085,75,8.31,623.25,14,normal
+INV-100060,PO-500060,2025-12-26,Zeta Verpackung,Logistik,MAT-1088,87,321.11,27936.57,10,normal
+INV-100583,PO-500583,2025-12-29,Beta Metalltechnik,Logistik,MAT-1050,15,250.0,3750.0,17,normal
+INV-100381,PO-500381,2025-11-13,Gamma Logistik AG,Bueromaterial,MAT-1089,115,10.28,1182.2,14,normal
+INV-100196,PO-500196,2025-05-06,Gamma Logistik AG,Verpackung,MAT-1057,166,2.53,419.98,7,normal
+INV-100537,PO-500537,2025-10-03,Delta Elektronik,Werkzeuge,MAT-1119,148,65.79,9737.31,17,knapp_unter_grenze
+INV-100447,PO-500447,2025-06-03,Theta Werkzeuge,Elektronik,MAT-1012,188,51.88,9753.65,15,knapp_unter_grenze
+INV-100538,PO-500538,2025-05-04,Epsilon Rohstoffe,Elektronik,MAT-1100,45,127.72,5747.4,11,normal
+INV-100375,PO-500375,2025-02-04,Zeta Verpackung,Werkzeuge,MAT-1049,49,56.91,2788.59,14,normal
+INV-100254,PO-500254,2025-11-07,Theta Werkzeuge,Rohmaterial,MAT-1011,1,6.88,6.88,12,normal
+INV-100265,PO-500265,2025-04-05,Gamma Logistik AG,Elektronik,MAT-1050,136,72.3,9832.8,13,normal
+INV-100302,PO-500302,2025-12-28,Iota Plastics,Rohmaterial,MAT-1106,18,8.99,161.82,10,normal
+INV-100090,PO-500090,2025-09-06,Iota Plastics,Elektronik,MAT-1103,143,139.0,19877.0,10,normal
+INV-100335,PO-500335,2025-05-11,Theta Werkzeuge,Logistik,MAT-1057,165,251.43,41485.95,15,normal
+INV-100181,PO-500181,2025-08-06,Beta Metalltechnik,Werkzeuge,MAT-1027,12,43.77,525.24,19,normal
+INV-SPLIT-6-1,PO-880022,2025-03-29,Alpha Components GmbH,Rohmaterial,MAT-1042,120,49.29,5914.65,18,auftragssplitting
+INV-100443,PO-500443,2025-07-10,Gamma Logistik AG,Elektronik,MAT-1033,119,139.91,16649.29,14,normal
+INV-100623,PO-500623,2025-06-18,Gamma Logistik AG,Logistik,MAT-1099,120,349.54,41944.8,16,normal
+INV-100158,PO-500158,2025-12-09,Kappa Services,Bueromaterial,MAT-1088,95,17.86,1696.7,10,normal
+INV-100069,PO-500069,2025-09-08,Gamma Logistik AG,Verpackung,MAT-1035,41,2.48,101.68,20,normal
+INV-DUP-15,PO-500562,2025-05-01,Gamma Logistik AG,Elektronik,MAT-1065,141,65.19,9191.79,16,doppelte_rechnung
+INV-100131,PO-500131,2025-12-25,Iota Plastics,Rohmaterial,MAT-1074,157,8.28,1299.96,20,normal
+INV-100044,PO-500044,2025-12-08,Alpha Components GmbH,Verpackung,MAT-1020,110,2.43,267.3,14,normal
+INV-100070,PO-500070,2025-10-09,Delta Elektronik,Logistik,MAT-1055,201,403.94,81191.94,22,normal
+INV-100630,PO-500630,2025-11-01,Beta Metalltechnik,Werkzeuge,MAT-1101,23,42.4,975.2,9,normal
+INV-100360,PO-500360,2025-12-29,Theta Werkzeuge,Rohmaterial,MAT-1010,203,10.37,2105.11,19,normal
+INV-100717,PO-500717,2025-06-24,Iota Plastics,Elektronik,MAT-1040,4,101.92,407.68,6,normal
+INV-100346,PO-500346,2025-03-13,Theta Werkzeuge,Bueromaterial,MAT-1008,24,12.12,290.88,9,normal
+INV-100135,PO-500135,2025-10-01,Eta Industriebedarf,Bueromaterial,MAT-1041,213,20.46,4357.98,5,normal
+INV-100082,PO-500082,2025-07-22,Epsilon Rohstoffe,Bueromaterial,MAT-1088,33,18.0,594.0,21,normal
+INV-100165,PO-500165,2025-09-07,Delta Elektronik,Rohmaterial,MAT-1027,190,5.76,1094.4,15,normal
+INV-100164,PO-500164,2025-07-13,Gamma Logistik AG,Werkzeuge,MAT-1027,171,34.78,5947.38,2,normal
+INV-100028,PO-500028,2025-10-17,Beta Metalltechnik,Logistik,MAT-1035,23,228.67,5259.41,12,normal
+INV-100412,PO-500412,2025-12-17,Gamma Logistik AG,Bueromaterial,MAT-1004,199,17.24,3430.76,16,normal
+INV-100193,PO-500193,2025-12-08,Zeta Verpackung,Werkzeuge,MAT-1056,127,54.69,6945.63,18,normal
+INV-100327,PO-500327,2025-01-23,Iota Plastics,Verpackung,MAT-1098,158,2.26,357.08,13,normal
+INV-100526,PO-500526,2025-11-07,Zeta Verpackung,Verpackung,MAT-1041,164,8.32,1364.48,3,preisabweichung
+INV-100323,PO-500323,2025-02-09,Zeta Verpackung,Rohmaterial,MAT-1059,181,6.61,1196.41,15,normal
+INV-100136,PO-500136,2025-12-18,Epsilon Rohstoffe,Rohmaterial,MAT-1105,9,7.36,66.24,15,normal
+INV-100651,PO-500651,2025-02-06,Theta Werkzeuge,Elektronik,MAT-1071,200,103.44,20688.0,14,normal
+INV-100316,PO-500316,2025-07-25,Alpha Components GmbH,Bueromaterial,MAT-1042,215,18.55,3988.25,11,normal
+INV-100140,PO-500140,2025-01-03,Iota Plastics,Logistik,MAT-1088,157,326.78,51304.46,17,normal
+INV-100478,PO-500478,2025-10-07,Delta Elektronik,Verpackung,MAT-1073,111,2.58,286.38,16,normal
+INV-100006,PO-500006,2025-09-29,Eta Industriebedarf,Verpackung,MAT-1110,10,2.67,26.7,11,normal
+INV-100530,PO-500530,2025-11-15,Delta Elektronik,Werkzeuge,MAT-1064,122,48.24,5885.28,21,normal
+INV-100394,PO-500394,2025-06-15,Eta Industriebedarf,Rohmaterial,MAT-1078,68,9.34,635.12,10,normal
+INV-100250,PO-500250,2025-04-29,Theta Werkzeuge,Verpackung,MAT-1081,148,2.06,304.88,10,normal
+INV-100073,PO-500073,2025-02-04,Eta Industriebedarf,Logistik,MAT-1087,140,370.27,51837.8,17,normal
+INV-100611,PO-500611,2025-04-05,Zeta Verpackung,Verpackung,MAT-1016,23,2.53,58.19,19,normal
+INV-100281,PO-500281,2025-06-07,Iota Plastics,Werkzeuge,MAT-1075,97,39.69,3849.93,11,normal
+INV-SPLIT-1-3,PO-880006,2025-10-08,Beta Metalltechnik,Elektronik,MAT-1005,52,121.45,6315.44,7,auftragssplitting
+INV-100145,PO-500145,2025-11-20,Iota Plastics,Werkzeuge,MAT-1022,121,42.14,5098.94,16,normal
+INV-100576,PO-500576,2025-11-30,Kappa Services,Verpackung,MAT-1042,189,3.1,585.9,20,normal
+INV-100234,PO-500234,2025-07-16,Epsilon Rohstoffe,Verpackung,MAT-1084,151,2.69,406.19,18,normal
+INV-100220,PO-500220,2025-10-15,Eta Industriebedarf,Logistik,MAT-1059,29,283.03,8207.87,17,normal
+INV-100306,PO-500306,2025-09-21,Zeta Verpackung,Elektronik,MAT-1008,183,131.65,24091.95,11,normal
+INV-100679,PO-500679,2025-07-19,Theta Werkzeuge,Rohmaterial,MAT-1110,164,7.05,1156.2,3,normal
+INV-100132,PO-500132,2025-07-08,Theta Werkzeuge,Bueromaterial,MAT-1034,167,16.09,2687.03,12,normal
+INV-100380,PO-500380,2025-11-04,Delta Elektronik,Logistik,MAT-1049,190,314.88,59827.2,11,normal
+INV-100266,PO-500266,2025-02-27,Delta Elektronik,Elektronik,MAT-1090,182,100.95,18372.9,16,normal
+INV-100442,PO-500442,2025-07-17,Gamma Logistik AG,Rohmaterial,MAT-1054,151,8.73,1318.23,11,normal
+INV-DUP-13,PO-500455,2025-11-10,Beta Metalltechnik,Bueromaterial,MAT-1053,160,14.79,2366.4,16,doppelte_rechnung
+INV-100431,PO-500431,2025-06-02,Eta Industriebedarf,Bueromaterial,MAT-1068,106,5.86,621.16,12,normal
+INV-100041,PO-500041,2025-04-06,Alpha Components GmbH,Verpackung,MAT-1112,84,3.11,261.24,7,normal
+INV-100500,PO-500500,2025-08-04,Iota Plastics,Bueromaterial,MAT-1062,135,15.26,2060.1,15,normal
+INV-100108,PO-500108,2025-05-06,Zeta Verpackung,Werkzeuge,MAT-1023,70,41.61,2912.7,14,normal
+INV-100667,PO-500667,2025-12-26,Beta Metalltechnik,Elektronik,MAT-1084,33,80.0,2640.0,24,normal
+INV-100056,PO-500056,2025-06-23,Zeta Verpackung,Bueromaterial,MAT-1042,24,11.49,275.76,22,normal
+INV-100575,PO-500575,2025-04-09,Beta Metalltechnik,Logistik,MAT-1059,19,323.34,6143.46,18,normal
+INV-100285,PO-500285,2025-03-20,Theta Werkzeuge,Elektronik,MAT-1067,190,122.44,23263.6,13,normal
+INV-SPLIT-6-2,PO-880023,2025-03-28,Alpha Components GmbH,Rohmaterial,MAT-1042,115,54.61,6280.03,15,auftragssplitting
+INV-100024,PO-500024,2025-09-21,Delta Elektronik,Elektronik,MAT-1097,100,76.82,7682.0,11,normal
+INV-100338,PO-500338,2025-06-10,Iota Plastics,Elektronik,MAT-1033,179,90.46,16192.34,20,normal
+INV-100356,PO-500356,2025-11-24,Zeta Verpackung,Bueromaterial,MAT-1087,9,18.57,167.13,10,normal
+INV-100361,PO-500361,2025-03-15,Beta Metalltechnik,Logistik,MAT-1022,29,375.87,10900.23,20,normal
+INV-100051,PO-500051,2025-10-21,Epsilon Rohstoffe,Bueromaterial,MAT-1056,162,12.44,2015.28,11,normal
+INV-100336,PO-500336,2025-05-20,Beta Metalltechnik,Verpackung,MAT-1084,60,2.25,135.0,8,normal
+INV-SPLIT-3-2,PO-880013,2025-03-29,Eta Industriebedarf,Rohmaterial,MAT-1030,96,59.82,5743.11,7,auftragssplitting
+INV-100264,PO-500264,2025-06-19,Alpha Components GmbH,Verpackung,MAT-1063,182,1.07,194.74,8,preisabweichung
+INV-100363,PO-500363,2025-04-03,Gamma Logistik AG,Logistik,MAT-1016,26,284.86,7406.36,10,normal
+INV-100506,PO-500506,2025-12-27,Kappa Services,Bueromaterial,MAT-1037,2,18.5,37.0,17,normal
+INV-100650,PO-500650,2025-09-09,Beta Metalltechnik,Logistik,MAT-1062,114,250.95,28608.3,10,normal
+INV-100290,PO-500290,2025-07-27,Theta Werkzeuge,Rohmaterial,MAT-1112,103,8.09,833.27,13,normal
+INV-100018,PO-500018,2025-02-08,Alpha Components GmbH,Rohmaterial,MAT-1092,37,7.46,276.02,16,normal
+INV-100591,PO-500591,2025-03-29,Theta Werkzeuge,Werkzeuge,MAT-1080,79,58.53,4623.87,13,normal
+INV-DUP-2,PO-500704,2025-07-12,Kappa Services,Logistik,MAT-1101,201,322.18,64758.18,14,doppelte_rechnung
+INV-100083,PO-500083,2025-12-08,Delta Elektronik,Verpackung,MAT-1093,208,2.2,457.6,18,normal
+INV-100061,PO-500061,2025-03-08,Iota Plastics,Bueromaterial,MAT-1028,108,15.95,1722.6,24,normal
+INV-100467,PO-500467,2025-05-19,Epsilon Rohstoffe,Elektronik,MAT-1046,200,87.85,17570.0,3,normal
+INV-100296,PO-500296,2025-11-18,Theta Werkzeuge,Elektronik,MAT-1026,92,90.5,8326.0,16,normal
+INV-100609,PO-500609,2025-12-28,Gamma Logistik AG,Verpackung,MAT-1019,179,2.66,476.14,13,normal
+INV-100521,PO-500521,2025-06-02,Alpha Components GmbH,Werkzeuge,MAT-1043,182,42.12,7665.84,12,normal
+INV-100182,PO-500182,2025-03-09,Zeta Verpackung,Bueromaterial,MAT-1063,56,12.46,697.76,15,normal
+INV-100464,PO-500464,2025-10-29,Zeta Verpackung,Werkzeuge,MAT-1093,36,48.8,1756.8,18,normal
+INV-100709,PO-500709,2025-03-13,Gamma Logistik AG,Elektronik,MAT-1077,103,97.28,10019.84,10,normal
+INV-100223,PO-500223,2025-11-05,Zeta Verpackung,Verpackung,MAT-1004,216,2.79,602.64,6,normal
+INV-100429,PO-500429,2025-10-06,Theta Werkzeuge,Bueromaterial,MAT-1116,192,15.1,2899.2,16,normal
+INV-100549,PO-500549,2025-07-10,Kappa Services,Elektronik,MAT-1066,143,121.75,17410.25,17,normal
+INV-100331,PO-500331,2025-03-20,Zeta Verpackung,Werkzeuge,MAT-1089,117,31.4,3673.8,14,normal
+INV-100333,PO-500333,2025-12-15,Iota Plastics,Bueromaterial,MAT-1018,22,21.29,468.38,22,normal
+INV-100448,PO-500448,2025-12-24,Eta Industriebedarf,Bueromaterial,MAT-1029,207,15.69,3247.83,15,normal
+INV-100705,PO-500705,2025-02-09,Kappa Services,Verpackung,MAT-1011,47,2.25,105.75,20,normal
+INV-100176,PO-500176,2025-03-28,Beta Metalltechnik,Elektronik,MAT-1093,195,153.77,29985.15,8,normal
+INV-100552,PO-500552,2025-10-12,Eta Industriebedarf,Werkzeuge,MAT-1105,206,40.89,8423.34,10,normal
+INV-100368,PO-500368,2025-02-28,Kappa Services,Werkzeuge,MAT-1012,29,47.83,1387.07,18,normal
+INV-100163,PO-500163,2025-06-28,Alpha Components GmbH,Bueromaterial,MAT-1039,61,14.37,876.57,17,normal
+INV-100248,PO-500248,2025-02-08,Alpha Components GmbH,Elektronik,MAT-1082,219,118.32,25912.08,18,normal
+INV-ML-3,PO-920003,2025-11-05,Eta Industriebedarf,Elektronik,MAT-1088,650,239.51,155681.5,49,multivariater_ausreisser
+INV-100720,PO-500720,2025-06-01,Zeta Verpackung,Werkzeuge,MAT-1017,180,56.63,10193.4,16,normal
+INV-100074,PO-500074,2025-12-17,Kappa Services,Werkzeuge,MAT-1020,205,44.33,9087.65,21,normal
+INV-100512,PO-500512,2025-02-14,Beta Metalltechnik,Verpackung,MAT-1015,216,1.99,429.84,4,normal
+INV-100633,PO-500633,2025-01-01,Beta Metalltechnik,Rohmaterial,MAT-1019,118,7.2,849.6,6,normal
+INV-100104,PO-500104,2025-10-14,Eta Industriebedarf,Elektronik,MAT-1048,67,98.86,6623.62,15,normal
+INV-100114,PO-500114,2025-09-16,Beta Metalltechnik,Logistik,MAT-1028,188,381.83,71784.04,6,normal
+INV-100634,PO-500634,2025-06-21,Zeta Verpackung,Rohmaterial,MAT-1039,121,9.13,1104.73,15,normal
+INV-100092,PO-500092,2025-01-02,Alpha Components GmbH,Rohmaterial,MAT-1018,144,7.6,1094.4,4,normal
+INV-100465,PO-500465,2025-12-05,Eta Industriebedarf,Rohmaterial,MAT-1031,17,7.95,135.15,12,normal
+INV-100089,PO-500089,2025-02-08,Eta Industriebedarf,Bueromaterial,MAT-1119,10,16.38,163.8,10,normal
+INV-ML-20,PO-920020,2025-10-17,Epsilon Rohstoffe,Verpackung,MAT-1077,720,6.19,4456.8,47,multivariater_ausreisser
+INV-100748,PO-500748,2025-10-25,Iota Plastics,Verpackung,MAT-1049,199,2.53,503.47,14,normal
+INV-DUP-7,PO-500443,2025-07-10,Gamma Logistik AG,Elektronik,MAT-1033,119,139.91,16649.29,14,doppelte_rechnung
+INV-100493,PO-500493,2025-01-23,Epsilon Rohstoffe,Verpackung,MAT-1044,184,2.79,513.36,14,normal
+INV-100501,PO-500501,2025-03-20,Beta Metalltechnik,Bueromaterial,MAT-1103,156,15.45,2410.2,15,normal
+INV-100499,PO-500499,2025-09-22,Iota Plastics,Elektronik,MAT-1104,18,117.55,2115.9,14,normal
+INV-100011,PO-500011,2025-08-31,Epsilon Rohstoffe,Rohmaterial,MAT-1084,171,8.43,1441.53,12,normal
+INV-100635,PO-500635,2025-02-09,Theta Werkzeuge,Rohmaterial,MAT-1015,88,9.01,792.88,13,normal
+INV-100043,PO-500043,2025-04-24,Kappa Services,Rohmaterial,MAT-1093,62,6.34,393.08,12,normal
+INV-100042,PO-500042,2025-11-22,Beta Metalltechnik,Elektronik,MAT-1089,27,457.17,12343.59,21,preisabweichung
+INV-100167,PO-500167,2025-02-20,Alpha Components GmbH,Logistik,MAT-1110,70,332.92,23304.4,14,normal
+INV-100713,PO-500713,2025-07-23,Gamma Logistik AG,Bueromaterial,MAT-1041,194,11.43,2217.42,18,normal
+INV-100621,PO-500621,2025-12-15,Kappa Services,Rohmaterial,MAT-1117,193,9.31,1796.83,11,normal
+INV-100417,PO-500417,2025-01-24,Alpha Components GmbH,Rohmaterial,MAT-1006,151,7.55,1140.05,10,normal
+INV-100178,PO-500178,2025-07-30,Zeta Verpackung,Bueromaterial,MAT-1046,4,20.39,81.56,15,normal
+INV-100536,PO-500536,2025-03-11,Kappa Services,Verpackung,MAT-1007,71,2.77,196.67,17,normal
+INV-100545,PO-500545,2025-01-19,Theta Werkzeuge,Logistik,MAT-1017,73,392.99,28688.27,19,normal
+INV-100177,PO-500177,2025-07-05,Beta Metalltechnik,Elektronik,MAT-1119,174,129.92,22606.08,13,normal
+INV-100559,PO-500559,2025-07-05,Alpha Components GmbH,Verpackung,MAT-1052,70,2.45,171.5,20,normal
+INV-SPLIT-0-2,PO-880002,2025-03-24,Zeta Verpackung,Werkzeuge,MAT-1100,66,121.04,7988.36,19,auftragssplitting
+INV-100257,PO-500257,2025-04-04,Delta Elektronik,Elektronik,MAT-1090,129,152.21,19635.09,13,normal
+INV-DUP-1,PO-500203,2025-11-07,Delta Elektronik,Elektronik,MAT-1070,24,22.52,540.48,9,doppelte_rechnung
+INV-100477,PO-500477,2025-07-03,Alpha Components GmbH,Bueromaterial,MAT-1050,163,16.67,2717.21,14,normal
+INV-100015,PO-500015,2025-05-30,Kappa Services,Elektronik,MAT-1102,61,141.45,8628.45,8,normal
+INV-100003,PO-500003,2025-03-24,Alpha Components GmbH,Werkzeuge,MAT-1066,99,49.68,4918.32,9,normal
+INV-100350,PO-500350,2025-01-22,Iota Plastics,Werkzeuge,MAT-1000,208,41.35,8600.8,10,normal
+INV-100256,PO-500256,2025-06-15,Iota Plastics,Rohmaterial,MAT-1005,181,7.61,1377.41,13,normal
+INV-100640,PO-500640,2025-11-15,Beta Metalltechnik,Verpackung,MAT-1062,125,2.08,260.0,17,normal
+INV-100395,PO-500395,2025-04-16,Delta Elektronik,Bueromaterial,MAT-1066,55,13.3,731.5,22,normal
+INV-100711,PO-500711,2025-12-15,Gamma Logistik AG,Elektronik,MAT-1034,99,118.71,11752.29,17,normal
+INV-100483,PO-500483,2025-01-25,Zeta Verpackung,Elektronik,MAT-1061,3,143.41,430.23,13,normal
+INV-100422,PO-500422,2025-07-24,Delta Elektronik,Bueromaterial,MAT-1110,209,9.51,1987.59,21,normal
+INV-100377,PO-500377,2025-10-09,Gamma Logistik AG,Bueromaterial,MAT-1040,55,16.35,899.25,18,normal
+INV-100365,PO-500365,2025-08-22,Epsilon Rohstoffe,Verpackung,MAT-1093,173,2.73,472.29,19,normal
+INV-100324,PO-500324,2025-04-12,Kappa Services,Elektronik,MAT-1011,112,109.0,12208.0,19,normal
+INV-100462,PO-500462,2025-04-19,Iota Plastics,Logistik,MAT-1108,164,303.23,49729.72,4,normal
+INV-100009,PO-500009,2025-10-31,Epsilon Rohstoffe,Logistik,MAT-1096,169,332.59,56207.71,14,normal
+INV-100249,PO-500249,2025-06-18,Beta Metalltechnik,Logistik,MAT-1050,66,374.52,24718.32,16,normal
+INV-100022,PO-500022,2025-10-06,Kappa Services,Verpackung,MAT-1031,154,2.35,361.9,17,normal
+INV-100221,PO-500221,2025-09-23,Theta Werkzeuge,Verpackung,MAT-1055,91,2.1,191.1,11,normal
+INV-100738,PO-500738,2025-11-11,Delta Elektronik,Werkzeuge,MAT-1021,149,39.43,5875.07,19,normal
+INV-ML-16,PO-920016,2025-02-24,Epsilon Rohstoffe,Werkzeuge,MAT-1086,622,114.13,70988.86,61,multivariater_ausreisser
+INV-ML-6,PO-920006,2025-09-23,Epsilon Rohstoffe,Elektronik,MAT-1010,460,248.19,114167.4,46,multivariater_ausreisser
+INV-100673,PO-500673,2025-06-11,Beta Metalltechnik,Rohmaterial,MAT-1029,176,10.08,1774.08,13,normal
+INV-100340,PO-500340,2025-03-08,Gamma Logistik AG,Bueromaterial,MAT-1043,165,20.99,3463.35,16,normal
+INV-100680,PO-500680,2025-11-26,Alpha Components GmbH,Verpackung,MAT-1031,212,3.1,657.2,13,normal
+INV-100203,PO-500203,2025-11-07,Delta Elektronik,Elektronik,MAT-1070,24,22.52,540.48,9,preisabweichung
+INV-100237,PO-500237,2025-12-04,Delta Elektronik,Verpackung,MAT-1101,210,2.28,478.8,16,normal
+INV-100093,PO-500093,2025-03-29,Gamma Logistik AG,Elektronik,MAT-1101,211,87.59,18481.49,10,normal
+INV-100405,PO-500405,2025-03-03,Epsilon Rohstoffe,Werkzeuge,MAT-1075,212,39.37,8346.44,16,normal
+INV-100367,PO-500367,2025-04-22,Alpha Components GmbH,Rohmaterial,MAT-1074,119,9.62,1144.78,14,normal
+INV-100514,PO-500514,2025-03-18,Iota Plastics,Logistik,MAT-1099,94,321.78,30247.32,18,normal
+INV-100284,PO-500284,2025-07-14,Alpha Components GmbH,Bueromaterial,MAT-1036,76,14.88,1130.88,18,normal
+INV-100184,PO-500184,2025-12-11,Alpha Components GmbH,Elektronik,MAT-1004,92,125.43,11539.56,15,normal
+INV-100658,PO-500658,2025-11-13,Zeta Verpackung,Elektronik,MAT-1005,68,140.02,9521.36,12,normal
+INV-100737,PO-500737,2025-05-11,Zeta Verpackung,Elektronik,MAT-1067,66,67.25,4438.5,22,normal
+INV-100153,PO-500153,2025-04-20,Iota Plastics,Logistik,MAT-1028,6,316.34,1898.04,18,normal
+INV-100075,PO-500075,2025-10-18,Kappa Services,Logistik,MAT-1113,219,338.25,74076.75,14,normal
+INV-ML-9,PO-920009,2025-12-28,Epsilon Rohstoffe,Logistik,MAT-1034,634,728.14,461640.76,49,multivariater_ausreisser
+INV-100541,PO-500541,2025-02-06,Beta Metalltechnik,Werkzeuge,MAT-1032,171,36.34,6214.14,12,normal
+INV-100277,PO-500277,2025-04-29,Epsilon Rohstoffe,Bueromaterial,MAT-1113,14,16.57,231.98,16,normal
+INV-100068,PO-500068,2025-05-04,Delta Elektronik,Elektronik,MAT-1060,92,163.18,15012.56,12,normal
+INV-100519,PO-500519,2025-12-28,Epsilon Rohstoffe,Logistik,MAT-1018,195,300.8,58656.0,18,normal
+INV-100188,PO-500188,2025-02-02,Theta Werkzeuge,Werkzeuge,MAT-1078,84,43.82,3680.88,15,normal
+INV-100271,PO-500271,2025-02-06,Epsilon Rohstoffe,Rohmaterial,MAT-1024,196,10.23,2005.08,11,normal
+INV-100236,PO-500236,2025-06-11,Eta Industriebedarf,Bueromaterial,MAT-1097,120,17.1,2052.0,9,normal
+INV-100088,PO-500088,2025-05-23,Kappa Services,Logistik,MAT-1005,172,215.23,37019.56,11,normal
+INV-100691,PO-500691,2025-08-22,Alpha Components GmbH,Bueromaterial,MAT-1088,89,17.58,1564.62,17,normal
+INV-100117,PO-500117,2025-03-18,Theta Werkzeuge,Verpackung,MAT-1063,148,64.89,9603.0,17,knapp_unter_grenze
+INV-100125,PO-500125,2025-11-05,Delta Elektronik,Verpackung,MAT-1057,204,2.77,565.08,15,normal
+INV-100669,PO-500669,2025-06-13,Delta Elektronik,Verpackung,MAT-1089,98,2.55,249.9,7,normal
+INV-100289,PO-500289,2025-09-29,Beta Metalltechnik,Logistik,MAT-1102,74,286.92,21232.08,3,normal
+INV-100238,PO-500238,2025-03-27,Theta Werkzeuge,Elektronik,MAT-1012,164,114.9,18843.6,7,normal
+INV-100000,PO-500000,2025-06-08,Iota Plastics,Elektronik,MAT-1010,170,94.0,15980.0,4,normal
+INV-ML-13,PO-920013,2025-03-09,Theta Werkzeuge,Bueromaterial,MAT-1114,725,38.32,27782.0,65,multivariater_ausreisser
+INV-100742,PO-500742,2025-07-12,Epsilon Rohstoffe,Werkzeuge,MAT-1035,3,50.5,151.5,18,normal
+INV-100710,PO-500710,2025-02-18,Zeta Verpackung,Rohmaterial,MAT-1043,97,12.01,1164.97,10,normal
+INV-100490,PO-500490,2025-08-04,Alpha Components GmbH,Verpackung,MAT-1013,155,0.63,97.65,24,preisabweichung
+INV-100278,PO-500278,2025-10-20,Kappa Services,Bueromaterial,MAT-1039,177,13.35,2362.95,14,normal
+INV-100638,PO-500638,2025-04-23,Beta Metalltechnik,Elektronik,MAT-1051,85,133.86,11378.1,14,normal
+INV-100116,PO-500116,2025-02-22,Theta Werkzeuge,Verpackung,MAT-1090,69,2.69,185.61,14,normal
+INV-100228,PO-500228,2025-02-17,Eta Industriebedarf,Logistik,MAT-1087,21,340.2,7144.2,15,normal
+INV-100655,PO-500655,2025-08-12,Iota Plastics,Logistik,MAT-1033,39,299.93,11697.27,23,normal
+INV-100425,PO-500425,2025-09-17,Alpha Components GmbH,Werkzeuge,MAT-1012,49,29.39,1440.11,10,normal
+INV-100439,PO-500439,2025-05-03,Alpha Components GmbH,Verpackung,MAT-1101,113,2.6,293.8,15,normal
+INV-100274,PO-500274,2025-01-12,Kappa Services,Verpackung,MAT-1083,45,2.43,109.35,7,normal
+INV-100318,PO-500318,2025-07-05,Iota Plastics,Werkzeuge,MAT-1103,138,8.21,1132.98,6,preisabweichung
+INV-100557,PO-500557,2025-08-22,Zeta Verpackung,Logistik,MAT-1082,136,178.1,24221.6,12,normal
+INV-100144,PO-500144,2025-11-26,Gamma Logistik AG,Werkzeuge,MAT-1085,77,70.49,5427.73,12,normal
+INV-100584,PO-500584,2025-11-29,Kappa Services,Verpackung,MAT-1025,164,2.17,355.88,4,normal
+INV-100513,PO-500513,2025-05-18,Delta Elektronik,Werkzeuge,MAT-1099,34,57.35,1949.9,15,normal
+INV-100740,PO-500740,2025-05-16,Epsilon Rohstoffe,Rohmaterial,MAT-1000,142,8.42,1195.64,11,normal
+INV-100704,PO-500704,2025-07-11,Kappa Services,Logistik,MAT-1101,201,322.18,64758.18,14,normal
+INV-100369,PO-500369,2025-07-12,Kappa Services,Logistik,MAT-1089,42,1620.23,68049.66,16,preisabweichung
+INV-100268,PO-500268,2025-08-07,Iota Plastics,Verpackung,MAT-1092,1,1.95,1.95,17,normal
+INV-100672,PO-500672,2025-03-14,Beta Metalltechnik,Bueromaterial,MAT-1101,109,19.27,2100.43,15,normal
+INV-100307,PO-500307,2025-06-12,Kappa Services,Bueromaterial,MAT-1007,174,14.24,2477.76,5,normal
+INV-100310,PO-500310,2025-08-17,Beta Metalltechnik,Werkzeuge,MAT-1110,185,28.95,5355.75,16,normal
+INV-100456,PO-500456,2025-05-01,Zeta Verpackung,Verpackung,MAT-1109,188,2.58,485.04,11,normal
+INV-100046,PO-500046,2025-11-12,Iota Plastics,Logistik,MAT-1003,128,64.95,8313.6,7,preisabweichung
+INV-100349,PO-500349,2025-03-03,Gamma Logistik AG,Verpackung,MAT-1023,48,2.72,130.56,10,normal
+INV-100371,PO-500371,2025-08-01,Iota Plastics,Rohmaterial,MAT-1047,111,7.82,868.02,10,normal
+INV-100529,PO-500529,2025-11-22,Delta Elektronik,Werkzeuge,MAT-1096,103,44.63,4596.89,3,normal
+INV-100261,PO-500261,2025-06-13,Kappa Services,Bueromaterial,MAT-1047,40,13.32,532.8,14,normal
+INV-100195,PO-500195,2025-12-15,Theta Werkzeuge,Elektronik,MAT-1029,6,71.58,429.48,6,normal
+INV-ML-21,PO-920021,2025-10-21,Zeta Verpackung,Verpackung,MAT-1001,468,6.36,2976.48,44,multivariater_ausreisser
+INV-SPLIT-2-1,PO-880008,2025-06-24,Iota Plastics,Rohmaterial,MAT-1005,94,71.17,6690.28,13,auftragssplitting
+INV-100107,PO-500107,2025-09-14,Zeta Verpackung,Rohmaterial,MAT-1077,130,8.52,1107.6,14,normal
+INV-100059,PO-500059,2025-01-20,Epsilon Rohstoffe,Elektronik,MAT-1070,182,125.8,22895.6,19,normal
+INV-100606,PO-500606,2025-11-27,Iota Plastics,Werkzeuge,MAT-1061,194,41.34,8019.96,16,normal
+INV-100444,PO-500444,2025-04-30,Eta Industriebedarf,Logistik,MAT-1091,135,219.58,29643.3,15,normal
+INV-100100,PO-500100,2025-04-03,Eta Industriebedarf,Werkzeuge,MAT-1104,101,49.28,4977.28,15,normal
+INV-100482,PO-500482,2025-05-20,Theta Werkzeuge,Bueromaterial,MAT-1031,26,16.18,420.68,9,normal
+INV-100731,PO-500731,2025-07-04,Zeta Verpackung,Bueromaterial,MAT-1026,195,18.45,3597.75,18,normal
+INV-100590,PO-500590,2025-04-10,Beta Metalltechnik,Werkzeuge,MAT-1010,176,60.37,10625.12,13,normal
+INV-100535,PO-500535,2025-10-30,Iota Plastics,Logistik,MAT-1086,13,294.8,3832.4,6,normal
+INV-100179,PO-500179,2025-07-15,Beta Metalltechnik,Elektronik,MAT-1074,91,121.11,11021.01,13,normal
+INV-100304,PO-500304,2025-03-16,Theta Werkzeuge,Verpackung,MAT-1065,210,2.63,552.3,13,normal
+INV-100434,PO-500434,2025-05-18,Gamma Logistik AG,Elektronik,MAT-1087,81,138.31,11203.11,9,normal
+INV-100481,PO-500481,2025-08-02,Delta Elektronik,Werkzeuge,MAT-1031,67,48.19,3228.73,12,normal
+INV-SPLIT-4-2,PO-880016,2025-04-01,Delta Elektronik,Werkzeuge,MAT-1074,35,211.01,7385.28,22,auftragssplitting
+INV-100149,PO-500149,2025-03-15,Zeta Verpackung,Elektronik,MAT-1002,77,92.41,7115.57,9,normal
+INV-100124,PO-500124,2025-08-13,Alpha Components GmbH,Verpackung,MAT-1086,147,2.44,358.68,17,normal
+INV-100643,PO-500643,2025-01-22,Beta Metalltechnik,Elektronik,MAT-1070,133,111.51,14830.83,17,normal
+INV-100707,PO-500707,2025-04-13,Alpha Components GmbH,Elektronik,MAT-1039,180,114.31,20575.8,15,normal
+INV-100185,PO-500185,2025-02-04,Theta Werkzeuge,Logistik,MAT-1106,206,269.76,55570.56,11,normal
+INV-100547,PO-500547,2025-10-25,Iota Plastics,Rohmaterial,MAT-1046,9,9.54,85.86,12,normal
+INV-100050,PO-500050,2025-10-01,Epsilon Rohstoffe,Bueromaterial,MAT-1000,24,15.27,366.48,23,normal
+INV-100473,PO-500473,2025-01-13,Eta Industriebedarf,Logistik,MAT-1092,30,257.17,7715.1,11,normal
+INV-ML-11,PO-920011,2025-12-27,Eta Industriebedarf,Elektronik,MAT-1064,494,267.78,132283.32,43,multivariater_ausreisser
+INV-SPLIT-2-0,PO-880007,2025-06-28,Iota Plastics,Rohmaterial,MAT-1005,101,80.75,8156.15,15,auftragssplitting
+INV-100321,PO-500321,2025-04-28,Beta Metalltechnik,Logistik,MAT-1078,136,323.43,43986.48,9,normal
+INV-100353,PO-500353,2025-04-07,Alpha Components GmbH,Rohmaterial,MAT-1051,124,6.25,775.0,6,normal
+INV-DUP-3,PO-500663,2025-12-16,Gamma Logistik AG,Logistik,MAT-1010,169,343.56,58061.64,17,doppelte_rechnung
+INV-100142,PO-500142,2025-04-06,Eta Industriebedarf,Verpackung,MAT-1063,1,2.61,2.61,11,normal
+INV-100370,PO-500370,2025-06-04,Beta Metalltechnik,Elektronik,MAT-1118,165,17.12,2824.8,14,preisabweichung
+INV-100141,PO-500141,2025-03-27,Beta Metalltechnik,Logistik,MAT-1074,199,314.5,62585.5,11,normal
+INV-100399,PO-500399,2025-06-22,Zeta Verpackung,Logistik,MAT-1059,211,304.32,64211.52,19,normal
+INV-100263,PO-500263,2025-09-26,Alpha Components GmbH,Rohmaterial,MAT-1067,56,7.62,426.72,9,normal
+INV-100320,PO-500320,2025-11-07,Delta Elektronik,Verpackung,MAT-1039,96,2.89,277.44,12,normal
+INV-100019,PO-500019,2025-07-02,Kappa Services,Logistik,MAT-1018,198,271.84,53824.32,16,normal
+INV-100172,PO-500172,2025-09-25,Iota Plastics,Bueromaterial,MAT-1017,216,45.15,9751.44,17,knapp_unter_grenze
+INV-100662,PO-500662,2025-06-28,Theta Werkzeuge,Rohmaterial,MAT-1053,65,7.8,507.0,16,normal
+INV-100312,PO-500312,2025-11-11,Delta Elektronik,Logistik,MAT-1033,106,280.95,29780.7,14,normal
+INV-100390,PO-500390,2025-06-10,Zeta Verpackung,Verpackung,MAT-1112,194,0.62,120.28,11,preisabweichung
+INV-DUP-9,PO-500381,2025-11-13,Gamma Logistik AG,Bueromaterial,MAT-1089,115,10.28,1182.2,14,doppelte_rechnung
+INV-100012,PO-500012,2025-01-14,Beta Metalltechnik,Werkzeuge,MAT-1029,101,38.61,3899.61,9,normal
+INV-100407,PO-500407,2025-10-03,Epsilon Rohstoffe,Rohmaterial,MAT-1101,35,8.0,280.0,4,normal
+INV-100408,PO-500408,2025-05-08,Gamma Logistik AG,Logistik,MAT-1081,50,316.43,15821.5,11,normal
+INV-100305,PO-500305,2025-12-08,Theta Werkzeuge,Rohmaterial,MAT-1100,69,7.62,525.78,15,normal
+INV-100354,PO-500354,2025-08-11,Theta Werkzeuge,Logistik,MAT-1069,56,286.8,16060.8,6,normal
+INV-100025,PO-500025,2025-10-04,Epsilon Rohstoffe,Werkzeuge,MAT-1086,5,30.54,152.7,15,normal
+INV-100604,PO-500604,2025-10-10,Beta Metalltechnik,Verpackung,MAT-1092,172,1.91,328.52,12,normal
+INV-100169,PO-500169,2025-08-04,Eta Industriebedarf,Werkzeuge,MAT-1101,51,323.5,16498.5,14,preisabweichung
+INV-100038,PO-500038,2025-04-20,Epsilon Rohstoffe,Rohmaterial,MAT-1116,37,7.32,270.84,14,normal
+INV-100175,PO-500175,2025-09-16,Delta Elektronik,Elektronik,MAT-1088,186,53.54,9958.01,20,knapp_unter_grenze
+INV-100245,PO-500245,2025-04-09,Epsilon Rohstoffe,Elektronik,MAT-1106,55,130.81,7194.55,11,normal
+INV-100298,PO-500298,2025-07-31,Beta Metalltechnik,Werkzeuge,MAT-1075,102,56.9,5803.8,13,normal
+INV-100677,PO-500677,2025-04-08,Gamma Logistik AG,Verpackung,MAT-1026,170,58.15,9885.49,25,knapp_unter_grenze
+INV-100416,PO-500416,2025-12-23,Delta Elektronik,Bueromaterial,MAT-1013,122,13.85,1689.7,15,normal
+INV-100554,PO-500554,2025-11-30,Zeta Verpackung,Verpackung,MAT-1119,32,2.02,64.64,11,normal
+INV-100272,PO-500272,2025-08-26,Iota Plastics,Werkzeuge,MAT-1021,39,43.98,1715.22,10,normal
+INV-100652,PO-500652,2025-11-02,Gamma Logistik AG,Bueromaterial,MAT-1019,119,17.43,2074.17,19,normal
+INV-100154,PO-500154,2025-01-23,Zeta Verpackung,Rohmaterial,MAT-1030,35,11.57,404.95,13,normal
+INV-100126,PO-500126,2025-06-07,Kappa Services,Logistik,MAT-1036,187,294.77,55121.99,8,normal
+INV-100449,PO-500449,2025-08-19,Gamma Logistik AG,Logistik,MAT-1111,110,318.23,35005.3,25,normal
+INV-100578,PO-500578,2025-01-22,Gamma Logistik AG,Logistik,MAT-1080,123,191.42,23544.66,17,normal
+INV-100341,PO-500341,2025-05-15,Kappa Services,Elektronik,MAT-1028,189,142.39,26911.71,15,normal
+INV-100430,PO-500430,2025-10-16,Alpha Components GmbH,Rohmaterial,MAT-1008,213,8.76,1865.88,19,normal
+INV-100287,PO-500287,2025-12-12,Iota Plastics,Werkzeuge,MAT-1047,144,60.37,8693.28,15,normal
+INV-100113,PO-500113,2025-09-29,Kappa Services,Verpackung,MAT-1001,15,2.87,43.05,4,normal
+INV-SPLIT-0-0,PO-880000,2025-03-23,Zeta Verpackung,Werkzeuge,MAT-1100,129,60.39,7790.62,7,auftragssplitting
+INV-100173,PO-500173,2025-03-20,Zeta Verpackung,Rohmaterial,MAT-1049,65,8.66,562.9,17,normal
+INV-100359,PO-500359,2025-12-25,Beta Metalltechnik,Bueromaterial,MAT-1049,30,12.81,384.3,15,normal
+INV-100487,PO-500487,2025-12-03,Kappa Services,Verpackung,MAT-1010,169,2.75,464.75,28,normal
+INV-100057,PO-500057,2025-02-22,Kappa Services,Elektronik,MAT-1110,203,95.33,19351.99,16,normal
+INV-100558,PO-500558,2025-03-05,Theta Werkzeuge,Elektronik,MAT-1017,210,47.05,9879.6,13,knapp_unter_grenze
+INV-100222,PO-500222,2025-08-13,Kappa Services,Werkzeuge,MAT-1063,132,49.44,6526.08,15,normal
+INV-100280,PO-500280,2025-10-19,Iota Plastics,Rohmaterial,MAT-1003,43,10.33,444.19,22,normal
+INV-100017,PO-500017,2025-08-31,Epsilon Rohstoffe,Werkzeuge,MAT-1048,219,46.59,10203.21,16,normal
+INV-100127,PO-500127,2025-07-02,Iota Plastics,Werkzeuge,MAT-1063,128,32.56,4167.68,9,normal
+INV-100322,PO-500322,2025-10-08,Theta Werkzeuge,Elektronik,MAT-1108,96,143.03,13730.88,12,normal
+INV-100255,PO-500255,2025-03-03,Alpha Components GmbH,Elektronik,MAT-1017,75,164.28,12321.0,3,normal
+INV-100544,PO-500544,2025-11-02,Iota Plastics,Rohmaterial,MAT-1004,75,8.92,669.0,12,normal
+INV-100470,PO-500470,2025-01-25,Theta Werkzeuge,Bueromaterial,MAT-1088,69,16.4,1131.6,14,normal
+INV-100605,PO-500605,2025-09-22,Zeta Verpackung,Verpackung,MAT-1100,8,3.01,24.08,8,normal
+INV-100468,PO-500468,2025-08-09,Alpha Components GmbH,Verpackung,MAT-1027,72,2.66,191.52,14,normal
+INV-SPLIT-4-0,PO-880014,2025-04-05,Delta Elektronik,Werkzeuge,MAT-1074,36,187.03,6733.11,14,auftragssplitting
+INV-100190,PO-500190,2025-01-02,Gamma Logistik AG,Bueromaterial,MAT-1051,175,14.02,2453.5,12,normal
+INV-100115,PO-500115,2025-12-16,Alpha Components GmbH,Werkzeuge,MAT-1119,110,4.15,456.5,16,preisabweichung
+INV-100522,PO-500522,2025-09-12,Delta Elektronik,Rohmaterial,MAT-1091,102,9.89,1008.78,2,normal
+INV-100723,PO-500723,2025-05-09,Eta Industriebedarf,Verpackung,MAT-1086,102,2.91,296.82,20,normal
+INV-100749,PO-500749,2025-02-06,Theta Werkzeuge,Werkzeuge,MAT-1079,159,44.65,7099.35,14,normal
+INV-100094,PO-500094,2025-02-13,Theta Werkzeuge,Logistik,MAT-1101,176,282.91,49792.16,20,normal
+INV-100180,PO-500180,2025-02-18,Gamma Logistik AG,Logistik,MAT-1041,12,224.98,2699.76,5,normal
+INV-100301,PO-500301,2025-05-28,Gamma Logistik AG,Verpackung,MAT-1097,44,2.85,125.4,23,normal
+INV-100624,PO-500624,2025-06-30,Gamma Logistik AG,Verpackung,MAT-1062,141,2.43,342.63,16,normal
+INV-100588,PO-500588,2025-07-01,Epsilon Rohstoffe,Werkzeuge,MAT-1037,98,41.08,4025.84,13,normal
+INV-100597,PO-500597,2025-03-24,Delta Elektronik,Rohmaterial,MAT-1060,211,9.93,2095.23,11,normal
+INV-100567,PO-500567,2025-09-12,Iota Plastics,Logistik,MAT-1103,58,197.31,11443.98,12,normal
+INV-DUP-5,PO-500634,2025-06-22,Zeta Verpackung,Rohmaterial,MAT-1039,121,9.13,1104.73,15,doppelte_rechnung
+INV-100718,PO-500718,2025-05-06,Kappa Services,Verpackung,MAT-1039,42,2.53,106.26,19,normal
+INV-100548,PO-500548,2025-03-10,Epsilon Rohstoffe,Logistik,MAT-1023,176,241.01,42417.76,13,normal
+INV-100005,PO-500005,2025-10-12,Theta Werkzeuge,Verpackung,MAT-1023,149,2.44,363.56,16,normal
+INV-ML-7,PO-920007,2025-05-16,Kappa Services,Logistik,MAT-1072,424,594.84,252212.16,56,multivariater_ausreisser
+INV-100045,PO-500045,2025-02-14,Gamma Logistik AG,Rohmaterial,MAT-1060,213,8.97,1910.61,9,normal
+INV-100739,PO-500739,2025-04-25,Eta Industriebedarf,Verpackung,MAT-1039,28,1.96,54.88,8,normal
+INV-100157,PO-500157,2025-08-27,Delta Elektronik,Rohmaterial,MAT-1114,94,10.25,963.5,15,normal
+INV-100616,PO-500616,2025-01-04,Epsilon Rohstoffe,Logistik,MAT-1073,169,447.49,75625.81,17,normal
+INV-100171,PO-500171,2025-12-02,Zeta Verpackung,Logistik,MAT-1054,55,300.69,16537.95,24,normal
+INV-100016,PO-500016,2025-12-01,Gamma Logistik AG,Logistik,MAT-1052,13,329.83,4287.79,11,normal
+INV-100511,PO-500511,2025-05-28,Theta Werkzeuge,Bueromaterial,MAT-1009,6,11.73,70.38,14,normal
+INV-100048,PO-500048,2025-07-05,Eta Industriebedarf,Bueromaterial,MAT-1037,66,18.01,1188.66,13,normal
+INV-SPLIT-5-3,PO-880020,2025-08-09,Theta Werkzeuge,Bueromaterial,MAT-1062,23,252.17,5799.96,14,auftragssplitting
+INV-100515,PO-500515,2025-03-04,Eta Industriebedarf,Verpackung,MAT-1008,72,1.87,134.64,20,normal
+INV-100568,PO-500568,2025-09-21,Beta Metalltechnik,Rohmaterial,MAT-1042,184,10.84,1994.56,12,normal
+INV-100480,PO-500480,2025-03-02,Beta Metalltechnik,Verpackung,MAT-1111,212,2.18,462.16,18,normal
+INV-100283,PO-500283,2025-08-29,Delta Elektronik,Verpackung,MAT-1066,64,2.18,139.52,10,normal
+INV-100542,PO-500542,2025-05-01,Alpha Components GmbH,Bueromaterial,MAT-1047,192,13.39,2570.88,5,normal
+INV-100225,PO-500225,2025-09-27,Delta Elektronik,Rohmaterial,MAT-1048,161,10.69,1721.09,15,normal
+INV-100026,PO-500026,2025-02-04,Eta Industriebedarf,Rohmaterial,MAT-1075,138,10.4,1435.2,14,normal
+INV-100648,PO-500648,2025-07-16,Theta Werkzeuge,Logistik,MAT-1002,92,353.63,32533.96,13,normal
+INV-100437,PO-500437,2025-12-27,Zeta Verpackung,Bueromaterial,MAT-1018,142,11.32,1607.44,4,normal
+INV-100364,PO-500364,2025-05-28,Iota Plastics,Werkzeuge,MAT-1075,89,74.14,6598.46,10,normal
+INV-100229,PO-500229,2025-03-14,Beta Metalltechnik,Werkzeuge,MAT-1093,177,32.65,5779.05,5,normal
+INV-100037,PO-500037,2025-07-07,Kappa Services,Rohmaterial,MAT-1030,137,8.58,1175.46,10,normal
+INV-SPLIT-4-1,PO-880015,2025-04-05,Delta Elektronik,Werkzeuge,MAT-1074,105,67.68,7106.22,16,auftragssplitting
+INV-100374,PO-500374,2025-05-24,Delta Elektronik,Logistik,MAT-1042,202,443.22,89530.44,22,normal
+INV-100469,PO-500469,2025-12-05,Alpha Components GmbH,Rohmaterial,MAT-1060,77,9.53,733.81,11,normal
+INV-SPLIT-5-0,PO-880017,2025-08-08,Theta Werkzeuge,Bueromaterial,MAT-1062,65,110.81,7202.67,19,auftragssplitting
+INV-100692,PO-500692,2025-05-03,Alpha Components GmbH,Elektronik,MAT-1019,188,98.57,18531.16,7,normal
+INV-100599,PO-500599,2025-03-03,Gamma Logistik AG,Logistik,MAT-1088,94,257.99,24251.06,11,normal
+INV-100194,PO-500194,2025-10-08,Beta Metalltechnik,Verpackung,MAT-1039,83,2.61,216.63,16,normal
+INV-100694,PO-500694,2025-06-20,Delta Elektronik,Bueromaterial,MAT-1093,13,13.59,176.67,9,normal
+INV-100703,PO-500703,2025-12-07,Zeta Verpackung,Werkzeuge,MAT-1091,125,47.43,5928.75,16,normal
+INV-100503,PO-500503,2025-11-21,Theta Werkzeuge,Logistik,MAT-1091,109,237.36,25872.24,9,normal
+INV-SPLIT-5-2,PO-880019,2025-08-11,Theta Werkzeuge,Bueromaterial,MAT-1062,108,56.86,6140.34,16,auftragssplitting
+INV-100678,PO-500678,2025-10-27,Theta Werkzeuge,Rohmaterial,MAT-1064,145,67.22,9746.77,11,knapp_unter_grenze
+INV-SPLIT-5-1,PO-880018,2025-08-08,Theta Werkzeuge,Bueromaterial,MAT-1062,26,228.33,5936.59,12,auftragssplitting
+INV-100162,PO-500162,2025-04-16,Beta Metalltechnik,Rohmaterial,MAT-1049,92,7.98,734.16,13,normal
+INV-100580,PO-500580,2025-08-13,Gamma Logistik AG,Rohmaterial,MAT-1029,94,6.55,615.7,9,normal
+INV-100152,PO-500152,2025-04-22,Zeta Verpackung,Werkzeuge,MAT-1118,72,49.82,3587.04,17,normal
+INV-100622,PO-500622,2025-10-31,Iota Plastics,Elektronik,MAT-1062,102,106.45,10857.9,22,normal
+INV-100579,PO-500579,2025-11-21,Zeta Verpackung,Rohmaterial,MAT-1075,183,10.21,1868.43,15,normal
+INV-100620,PO-500620,2025-02-09,Kappa Services,Logistik,MAT-1090,131,228.14,29886.34,17,normal
+INV-100111,PO-500111,2025-06-30,Alpha Components GmbH,Logistik,MAT-1013,85,248.91,21157.35,17,normal
+INV-100226,PO-500226,2025-09-22,Kappa Services,Elektronik,MAT-1039,158,123.03,19438.74,13,normal
+INV-100569,PO-500569,2025-03-02,Gamma Logistik AG,Elektronik,MAT-1054,45,147.06,6617.7,16,normal
+INV-100103,PO-500103,2025-02-13,Kappa Services,Werkzeuge,MAT-1016,29,64.51,1870.79,14,normal
+INV-100421,PO-500421,2025-08-29,Beta Metalltechnik,Werkzeuge,MAT-1086,178,53.72,9562.16,8,normal
+INV-100419,PO-500419,2025-01-27,Epsilon Rohstoffe,Werkzeuge,MAT-1096,84,34.15,2868.6,15,normal
+INV-100119,PO-500119,2025-02-21,Zeta Verpackung,Werkzeuge,MAT-1053,143,58.36,8345.48,11,normal
+INV-100053,PO-500053,2025-08-10,Kappa Services,Logistik,MAT-1104,168,290.24,48760.32,25,normal
+INV-100151,PO-500151,2025-04-14,Delta Elektronik,Bueromaterial,MAT-1107,215,12.29,2642.35,5,normal
+INV-100403,PO-500403,2025-02-04,Zeta Verpackung,Verpackung,MAT-1000,32,2.91,93.12,15,normal
+INV-DUP-17,PO-500330,2025-08-21,Iota Plastics,Logistik,MAT-1044,82,117.7,9651.61,7,knapp_unter_grenze
+INV-100207,PO-500207,2025-03-31,Iota Plastics,Rohmaterial,MAT-1085,41,8.83,362.03,19,normal
+INV-100687,PO-500687,2025-02-17,Eta Industriebedarf,Rohmaterial,MAT-1082,56,6.64,371.84,8,normal
+INV-100626,PO-500626,2025-11-20,Gamma Logistik AG,Logistik,MAT-1070,46,330.07,15183.22,14,normal
+INV-100008,PO-500008,2025-05-01,Gamma Logistik AG,Verpackung,MAT-1067,29,2.16,62.64,17,normal
+INV-100660,PO-500660,2025-04-13,Theta Werkzeuge,Werkzeuge,MAT-1008,131,17.6,2305.6,11,normal
+INV-100036,PO-500036,2025-06-17,Iota Plastics,Werkzeuge,MAT-1115,82,36.79,3016.78,18,normal
+INV-100452,PO-500452,2025-02-25,Kappa Services,Werkzeuge,MAT-1034,71,32.35,2296.85,13,normal
+INV-100253,PO-500253,2025-07-14,Gamma Logistik AG,Bueromaterial,MAT-1008,68,79.47,5403.96,16,preisabweichung
+INV-100303,PO-500303,2025-01-14,Gamma Logistik AG,Werkzeuge,MAT-1064,80,49.28,3942.4,8,normal
+INV-100613,PO-500613,2025-07-16,Zeta Verpackung,Rohmaterial,MAT-1112,157,7.12,1117.84,13,normal
+INV-100571,PO-500571,2025-02-02,Delta Elektronik,Elektronik,MAT-1048,109,98.37,10722.33,17,normal
+INV-100586,PO-500586,2025-03-08,Epsilon Rohstoffe,Bueromaterial,MAT-1067,87,18.54,1612.98,13,normal
+INV-100594,PO-500594,2025-01-10,Delta Elektronik,Bueromaterial,MAT-1087,151,16.77,2532.27,9,normal
+INV-100262,PO-500262,2025-06-15,Beta Metalltechnik,Bueromaterial,MAT-1074,214,7.65,1637.1,12,normal
+INV-100297,PO-500297,2025-11-16,Alpha Components GmbH,Bueromaterial,MAT-1002,160,16.7,2672.0,15,normal
+INV-100414,PO-500414,2025-06-04,Delta Elektronik,Logistik,MAT-1063,165,245.96,40583.4,18,normal
+INV-100150,PO-500150,2025-06-14,Epsilon Rohstoffe,Bueromaterial,MAT-1106,139,18.64,2590.96,13,normal
+INV-100665,PO-500665,2025-02-21,Delta Elektronik,Verpackung,MAT-1032,91,2.71,246.61,23,normal
+INV-100722,PO-500722,2025-01-12,Eta Industriebedarf,Elektronik,MAT-1016,42,121.03,5083.26,8,normal
+INV-100550,PO-500550,2025-03-14,Alpha Components GmbH,Logistik,MAT-1075,180,456.22,82119.6,17,normal
+INV-100488,PO-500488,2025-05-06,Delta Elektronik,Werkzeuge,MAT-1039,204,37.62,7674.48,8,normal
+INV-100147,PO-500147,2025-02-19,Beta Metalltechnik,Bueromaterial,MAT-1068,117,13.99,1636.83,5,normal
+INV-100146,PO-500146,2025-06-05,Iota Plastics,Logistik,MAT-1064,75,210.34,15775.5,14,normal
+INV-100595,PO-500595,2025-11-22,Delta Elektronik,Logistik,MAT-1027,112,386.82,43323.84,11,normal
+INV-DUP-6,PO-500719,2025-08-24,Eta Industriebedarf,Elektronik,MAT-1085,38,87.46,3323.48,11,doppelte_rechnung
+INV-100608,PO-500608,2025-08-04,Kappa Services,Werkzeuge,MAT-1060,70,53.35,3734.5,13,normal
+INV-100348,PO-500348,2025-08-18,Kappa Services,Logistik,MAT-1051,59,381.83,22527.97,9,normal
+INV-100463,PO-500463,2025-09-18,Eta Industriebedarf,Bueromaterial,MAT-1119,92,13.19,1213.48,22,normal
+INV-100325,PO-500325,2025-01-25,Theta Werkzeuge,Verpackung,MAT-1071,214,2.23,477.22,21,normal
+INV-100186,PO-500186,2025-05-12,Kappa Services,Elektronik,MAT-1031,150,126.83,19024.5,21,normal
+INV-100123,PO-500123,2025-11-04,Iota Plastics,Verpackung,MAT-1076,185,1.83,338.55,13,normal
+INV-100693,PO-500693,2025-03-09,Epsilon Rohstoffe,Werkzeuge,MAT-1039,87,55.48,4826.76,15,normal
+INV-100143,PO-500143,2025-09-03,Gamma Logistik AG,Elektronik,MAT-1028,134,109.71,14701.14,1,normal
+INV-SPLIT-2-2,PO-880009,2025-06-24,Iota Plastics,Rohmaterial,MAT-1005,128,53.94,6904.11,10,auftragssplitting
+INV-100197,PO-500197,2025-06-20,Epsilon Rohstoffe,Rohmaterial,MAT-1031,13,7.39,96.07,15,normal
+INV-100279,PO-500279,2025-08-02,Epsilon Rohstoffe,Verpackung,MAT-1015,175,2.63,460.25,16,normal
+INV-100293,PO-500293,2025-03-10,Kappa Services,Bueromaterial,MAT-1071,187,13.02,2434.74,14,normal
+INV-100400,PO-500400,2025-12-17,Zeta Verpackung,Logistik,MAT-1077,204,219.19,44714.76,21,normal
+INV-100122,PO-500122,2025-12-30,Zeta Verpackung,Rohmaterial,MAT-1086,64,7.19,460.16,10,normal
+INV-100183,PO-500183,2025-07-26,Gamma Logistik AG,Verpackung,MAT-1091,168,3.01,505.68,7,normal
+INV-100202,PO-500202,2025-05-27,Zeta Verpackung,Logistik,MAT-1062,186,250.02,46503.72,14,normal
+INV-100438,PO-500438,2025-04-24,Alpha Components GmbH,Logistik,MAT-1049,148,245.45,36326.6,14,normal
+INV-100246,PO-500246,2025-07-30,Beta Metalltechnik,Verpackung,MAT-1018,25,1.88,47.0,11,normal
+INV-100415,PO-500415,2025-06-12,Alpha Components GmbH,Elektronik,MAT-1027,216,45.96,9927.03,14,knapp_unter_grenze
+INV-100721,PO-500721,2025-01-13,Alpha Components GmbH,Rohmaterial,MAT-1033,104,7.49,778.96,19,normal
+INV-100129,PO-500129,2025-01-10,Eta Industriebedarf,Rohmaterial,MAT-1111,57,9.11,519.27,16,normal
+INV-100402,PO-500402,2025-12-20,Kappa Services,Verpackung,MAT-1061,109,2.99,325.91,15,normal
+INV-100641,PO-500641,2025-02-26,Iota Plastics,Werkzeuge,MAT-1029,73,54.76,3997.48,20,normal
+INV-100631,PO-500631,2025-01-14,Theta Werkzeuge,Verpackung,MAT-1074,50,2.16,108.0,4,normal
+INV-100741,PO-500741,2025-03-01,Delta Elektronik,Bueromaterial,MAT-1060,3,16.86,50.58,11,normal
+INV-100219,PO-500219,2025-04-13,Iota Plastics,Werkzeuge,MAT-1007,62,31.35,1943.7,18,normal
+INV-100743,PO-500743,2025-12-03,Eta Industriebedarf,Bueromaterial,MAT-1066,106,24.27,2572.62,17,normal
+INV-100617,PO-500617,2025-03-31,Eta Industriebedarf,Elektronik,MAT-1039,61,99.21,6051.81,19,normal
+INV-100746,PO-500746,2025-11-07,Alpha Components GmbH,Rohmaterial,MAT-1087,163,9.7,1581.1,12,normal
+INV-100684,PO-500684,2025-01-02,Epsilon Rohstoffe,Verpackung,MAT-1057,156,2.47,385.32,9,normal
+INV-100625,PO-500625,2025-06-08,Zeta Verpackung,Verpackung,MAT-1052,84,2.31,194.04,21,normal
+INV-100386,PO-500386,2025-04-07,Kappa Services,Bueromaterial,MAT-1020,127,14.66,1861.82,11,normal
+INV-SPLIT-6-0,PO-880021,2025-04-02,Alpha Components GmbH,Rohmaterial,MAT-1042,67,90.15,6040.03,17,auftragssplitting
+INV-100509,PO-500509,2025-03-07,Theta Werkzeuge,Bueromaterial,MAT-1042,1,15.41,15.41,17,normal
+INV-100267,PO-500267,2025-07-25,Eta Industriebedarf,Rohmaterial,MAT-1081,99,6.02,595.98,17,normal
+INV-100670,PO-500670,2025-09-06,Kappa Services,Rohmaterial,MAT-1094,101,7.81,788.81,13,normal
+INV-100441,PO-500441,2025-06-28,Gamma Logistik AG,Werkzeuge,MAT-1016,151,46.64,7042.64,12,normal
+INV-100496,PO-500496,2025-04-20,Zeta Verpackung,Rohmaterial,MAT-1014,129,9.62,1240.98,16,normal
+INV-100112,PO-500112,2025-01-29,Gamma Logistik AG,Bueromaterial,MAT-1067,185,16.1,2978.5,12,normal
+INV-100232,PO-500232,2025-10-08,Kappa Services,Bueromaterial,MAT-1069,119,8.68,1032.92,14,normal
+INV-100708,PO-500708,2025-04-16,Eta Industriebedarf,Werkzeuge,MAT-1022,178,43.86,7807.08,15,normal
+INV-100607,PO-500607,2025-08-27,Theta Werkzeuge,Logistik,MAT-1110,96,308.74,29639.04,18,normal
+INV-100373,PO-500373,2025-10-18,Epsilon Rohstoffe,Logistik,MAT-1115,74,205.97,15241.78,17,normal
+INV-100233,PO-500233,2025-04-27,Theta Werkzeuge,Werkzeuge,MAT-1117,15,44.95,674.25,15,normal
+INV-100682,PO-500682,2025-01-22,Eta Industriebedarf,Logistik,MAT-1069,167,294.01,49099.67,15,normal
+INV-100317,PO-500317,2025-07-27,Delta Elektronik,Elektronik,MAT-1109,33,105.48,3480.84,17,normal
+INV-100410,PO-500410,2025-04-28,Gamma Logistik AG,Logistik,MAT-1045,189,346.15,65422.35,9,normal
+INV-100730,PO-500730,2025-07-20,Eta Industriebedarf,Logistik,MAT-1024,155,249.37,38652.35,14,normal
+INV-100358,PO-500358,2025-06-08,Epsilon Rohstoffe,Rohmaterial,MAT-1088,43,7.32,314.76,13,normal
+INV-100258,PO-500258,2025-04-23,Delta Elektronik,Werkzeuge,MAT-1049,165,336.59,55537.35,11,preisabweichung
+INV-100627,PO-500627,2025-05-19,Gamma Logistik AG,Elektronik,MAT-1051,137,36.47,4996.39,11,preisabweichung
+INV-100632,PO-500632,2025-11-18,Gamma Logistik AG,Elektronik,MAT-1014,5,85.6,428.0,11,normal
+INV-100282,PO-500282,2025-10-10,Delta Elektronik,Logistik,MAT-1032,205,289.71,59390.55,21,normal
+INV-100376,PO-500376,2025-08-08,Delta Elektronik,Elektronik,MAT-1073,63,102.53,6459.39,14,normal
+INV-100384,PO-500384,2025-02-07,Epsilon Rohstoffe,Verpackung,MAT-1014,163,2.59,422.17,15,normal
+INV-100224,PO-500224,2025-10-02,Eta Industriebedarf,Rohmaterial,MAT-1020,196,7.55,1479.8,21,normal
+INV-SPLIT-1-2,PO-880005,2025-10-09,Beta Metalltechnik,Elektronik,MAT-1005,62,126.61,7849.82,16,auftragssplitting
+INV-100666,PO-500666,2025-06-21,Theta Werkzeuge,Elektronik,MAT-1045,132,119.31,15748.92,14,normal
+INV-100472,PO-500472,2025-12-05,Kappa Services,Elektronik,MAT-1053,204,74.8,15259.2,5,normal
+INV-100347,PO-500347,2025-11-21,Beta Metalltechnik,Bueromaterial,MAT-1037,26,19.55,508.3,15,normal
+INV-100505,PO-500505,2025-01-15,Alpha Components GmbH,Werkzeuge,MAT-1087,153,49.92,7637.76,10,normal
+INV-100639,PO-500639,2025-12-20,Zeta Verpackung,Bueromaterial,MAT-1006,66,14.5,957.0,17,normal
+INV-ML-10,PO-920010,2025-01-15,Epsilon Rohstoffe,Werkzeuge,MAT-1089,402,73.23,29438.46,63,multivariater_ausreisser
+INV-DUP-4,PO-500521,2025-06-05,Alpha Components GmbH,Werkzeuge,MAT-1043,182,42.12,7665.84,12,doppelte_rechnung
+INV-100735,PO-500735,2025-10-18,Beta Metalltechnik,Elektronik,MAT-1070,182,112.17,20414.94,12,normal
+INV-100619,PO-500619,2025-01-11,Epsilon Rohstoffe,Bueromaterial,MAT-1067,98,16.17,1584.66,14,normal
+INV-100695,PO-500695,2025-09-18,Alpha Components GmbH,Bueromaterial,MAT-1072,12,15.46,185.52,10,normal
+INV-100645,PO-500645,2025-11-18,Kappa Services,Werkzeuge,MAT-1080,158,60.29,9525.82,4,normal
+INV-100688,PO-500688,2025-07-17,Alpha Components GmbH,Elektronik,MAT-1083,94,108.14,10165.16,19,normal
+INV-100556,PO-500556,2025-01-19,Kappa Services,Verpackung,MAT-1113,34,2.63,89.42,14,normal
+INV-100577,PO-500577,2025-12-07,Kappa Services,Bueromaterial,MAT-1068,128,2.62,335.36,15,preisabweichung
+INV-100085,PO-500085,2025-08-21,Beta Metalltechnik,Bueromaterial,MAT-1014,193,21.98,4242.14,22,normal
+INV-100242,PO-500242,2025-09-13,Theta Werkzeuge,Elektronik,MAT-1072,184,118.07,21724.88,12,normal
+INV-100159,PO-500159,2025-01-24,Kappa Services,Elektronik,MAT-1054,126,61.99,7810.74,12,normal
+INV-100524,PO-500524,2025-02-05,Gamma Logistik AG,Verpackung,MAT-1052,152,2.14,325.28,13,normal
+INV-100035,PO-500035,2025-03-26,Gamma Logistik AG,Logistik,MAT-1004,214,270.04,57788.56,10,normal
+INV-100540,PO-500540,2025-04-15,Theta Werkzeuge,Werkzeuge,MAT-1095,158,47.81,7553.98,16,normal
+INV-100170,PO-500170,2025-06-17,Beta Metalltechnik,Rohmaterial,MAT-1107,187,10.7,2000.9,9,normal
+INV-100654,PO-500654,2025-03-12,Eta Industriebedarf,Bueromaterial,MAT-1081,111,11.4,1265.4,23,normal
+INV-100697,PO-500697,2025-09-17,Zeta Verpackung,Werkzeuge,MAT-1118,39,38.44,1499.16,8,normal
+INV-100689,PO-500689,2025-11-04,Zeta Verpackung,Elektronik,MAT-1006,126,124.98,15747.48,12,normal
+INV-DUP-16,PO-500683,2025-12-10,Gamma Logistik AG,Rohmaterial,MAT-1036,6,9.64,57.84,13,doppelte_rechnung
+INV-100095,PO-500095,2025-02-15,Eta Industriebedarf,Logistik,MAT-1060,25,295.85,7396.25,20,normal
+INV-100563,PO-500563,2025-06-19,Iota Plastics,Logistik,MAT-1003,56,314.93,17636.08,20,normal
+INV-100240,PO-500240,2025-04-15,Gamma Logistik AG,Verpackung,MAT-1078,129,2.44,314.76,19,normal
+INV-100574,PO-500574,2025-04-21,Iota Plastics,Logistik,MAT-1110,146,199.25,29090.5,3,normal
+INV-100460,PO-500460,2025-04-08,Gamma Logistik AG,Elektronik,MAT-1005,187,136.51,25527.37,8,normal
+INV-100553,PO-500553,2025-02-05,Theta Werkzeuge,Verpackung,MAT-1027,56,1.76,98.56,7,normal
+INV-100714,PO-500714,2025-02-14,Kappa Services,Werkzeuge,MAT-1061,193,52.77,10184.61,14,normal
+INV-100206,PO-500206,2025-03-06,Iota Plastics,Logistik,MAT-1074,22,304.2,6692.4,15,normal
+INV-100392,PO-500392,2025-10-03,Gamma Logistik AG,Logistik,MAT-1095,58,276.68,16047.44,7,normal
+INV-100397,PO-500397,2025-01-28,Theta Werkzeuge,Logistik,MAT-1053,134,262.2,35134.8,13,normal
+INV-100690,PO-500690,2025-08-06,Beta Metalltechnik,Elektronik,MAT-1055,83,126.41,10492.03,9,normal
+INV-100217,PO-500217,2025-08-16,Alpha Components GmbH,Elektronik,MAT-1090,145,107.9,15645.5,16,normal
+INV-100004,PO-500004,2025-03-02,Theta Werkzeuge,Bueromaterial,MAT-1084,182,14.85,2702.7,20,normal
+INV-100642,PO-500642,2025-10-12,Kappa Services,Bueromaterial,MAT-1066,8,12.53,100.24,14,normal
+INV-100736,PO-500736,2025-07-11,Beta Metalltechnik,Rohmaterial,MAT-1107,87,7.43,646.41,18,normal
+INV-100612,PO-500612,2025-03-22,Delta Elektronik,Logistik,MAT-1037,23,310.54,7142.42,14,normal
+INV-100546,PO-500546,2025-05-20,Zeta Verpackung,Elektronik,MAT-1118,82,105.58,8657.56,6,normal
+INV-100683,PO-500683,2025-12-09,Gamma Logistik AG,Rohmaterial,MAT-1036,6,9.64,57.84,13,normal
+INV-100098,PO-500098,2025-01-02,Alpha Components GmbH,Werkzeuge,MAT-1026,12,34.59,415.08,4,normal
+INV-100573,PO-500573,2025-02-22,Epsilon Rohstoffe,Verpackung,MAT-1073,23,2.31,53.13,5,normal
+INV-100406,PO-500406,2025-04-16,Theta Werkzeuge,Verpackung,MAT-1018,141,2.34,329.94,16,normal
+INV-100502,PO-500502,2025-11-24,Delta Elektronik,Verpackung,MAT-1084,93,2.07,192.51,9,normal
+INV-100047,PO-500047,2025-02-15,Zeta Verpackung,Logistik,MAT-1111,96,41.15,3950.4,11,preisabweichung
+INV-100032,PO-500032,2025-11-07,Epsilon Rohstoffe,Bueromaterial,MAT-1034,73,13.75,1003.75,19,normal
+INV-100200,PO-500200,2025-08-13,Kappa Services,Logistik,MAT-1042,198,356.86,70658.28,8,normal
+INV-100134,PO-500134,2025-06-02,Kappa Services,Werkzeuge,MAT-1012,122,47.35,5776.7,15,normal
+INV-100027,PO-500027,2025-06-30,Beta Metalltechnik,Elektronik,MAT-1039,40,125.5,5020.0,15,normal
+INV-100716,PO-500716,2025-03-13,Alpha Components GmbH,Logistik,MAT-1000,68,333.9,22705.2,9,normal
+INV-100230,PO-500230,2025-03-04,Beta Metalltechnik,Logistik,MAT-1104,55,180.67,9936.63,12,knapp_unter_grenze
+INV-100489,PO-500489,2025-03-11,Zeta Verpackung,Verpackung,MAT-1107,68,2.38,161.84,14,normal
+INV-100378,PO-500378,2025-12-13,Alpha Components GmbH,Rohmaterial,MAT-1054,145,6.91,1001.95,8,normal
+INV-100288,PO-500288,2025-08-14,Alpha Components GmbH,Bueromaterial,MAT-1112,127,15.07,1913.89,15,normal
+INV-100418,PO-500418,2025-02-07,Beta Metalltechnik,Logistik,MAT-1062,5,362.62,1813.1,17,normal
+INV-100674,PO-500674,2025-11-30,Epsilon Rohstoffe,Rohmaterial,MAT-1078,82,7.27,596.14,25,normal
+INV-100391,PO-500391,2025-06-20,Alpha Components GmbH,Logistik,MAT-1020,37,354.88,13130.56,9,normal
+INV-100592,PO-500592,2025-05-22,Delta Elektronik,Verpackung,MAT-1007,112,2.11,236.32,19,normal
+INV-100498,PO-500498,2025-06-11,Zeta Verpackung,Logistik,MAT-1003,101,406.7,41076.7,14,normal
+INV-100138,PO-500138,2025-04-08,Kappa Services,Rohmaterial,MAT-1053,122,7.05,860.1,16,normal
+INV-100062,PO-500062,2025-04-14,Alpha Components GmbH,Werkzeuge,MAT-1000,126,48.86,6156.36,15,normal
+INV-100471,PO-500471,2025-10-07,Theta Werkzeuge,Bueromaterial,MAT-1096,27,17.46,471.42,18,normal
+INV-100647,PO-500647,2025-10-25,Kappa Services,Elektronik,MAT-1020,29,86.95,2521.55,15,normal
+INV-100128,PO-500128,2025-08-18,Eta Industriebedarf,Elektronik,MAT-1046,88,128.36,11295.68,18,normal
+INV-ML-0,PO-920000,2025-07-15,Alpha Components GmbH,Bueromaterial,MAT-1026,576,38.51,22181.76,47,multivariater_ausreisser
+INV-100520,PO-500520,2025-02-05,Iota Plastics,Bueromaterial,MAT-1013,12,19.11,229.32,15,normal
+INV-100064,PO-500064,2025-10-20,Kappa Services,Logistik,MAT-1028,22,355.65,7824.3,11,normal
+INV-100014,PO-500014,2025-10-18,Delta Elektronik,Werkzeuge,MAT-1072,122,52.11,6357.42,11,normal
+INV-100156,PO-500156,2025-04-08,Theta Werkzeuge,Rohmaterial,MAT-1056,179,7.25,1297.75,17,normal
+INV-100040,PO-500040,2025-05-03,Eta Industriebedarf,Verpackung,MAT-1049,70,2.59,181.3,16,normal
+INV-100492,PO-500492,2025-11-07,Delta Elektronik,Verpackung,MAT-1112,192,2.45,470.4,16,normal
+INV-100379,PO-500379,2025-06-30,Epsilon Rohstoffe,Rohmaterial,MAT-1006,133,7.19,956.27,17,normal
+INV-100187,PO-500187,2025-06-21,Iota Plastics,Rohmaterial,MAT-1088,76,6.26,475.76,14,normal
+INV-100216,PO-500216,2025-09-06,Delta Elektronik,Bueromaterial,MAT-1067,34,16.43,558.62,20,normal
+INV-100052,PO-500052,2025-04-16,Iota Plastics,Bueromaterial,MAT-1030,4,18.62,74.48,3,normal
+INV-100337,PO-500337,2025-06-25,Gamma Logistik AG,Werkzeuge,MAT-1093,93,41.46,3855.78,8,normal
+INV-100719,PO-500719,2025-08-23,Eta Industriebedarf,Elektronik,MAT-1085,38,87.46,3323.48,11,normal
+INV-100724,PO-500724,2025-01-04,Kappa Services,Werkzeuge,MAT-1044,108,11.78,1272.24,5,preisabweichung
+INV-100295,PO-500295,2025-08-10,Kappa Services,Verpackung,MAT-1050,160,1.51,241.6,1,normal
+INV-100701,PO-500701,2025-03-13,Eta Industriebedarf,Bueromaterial,MAT-1003,64,17.25,1104.0,9,normal
+INV-100251,PO-500251,2025-04-28,Gamma Logistik AG,Logistik,MAT-1089,87,378.21,32904.27,12,normal
+INV-100726,PO-500726,2025-12-03,Alpha Components GmbH,Verpackung,MAT-1024,57,2.75,156.75,21,normal
+INV-100461,PO-500461,2025-06-30,Zeta Verpackung,Bueromaterial,MAT-1014,124,17.3,2145.2,28,normal
+INV-100455,PO-500455,2025-11-10,Beta Metalltechnik,Bueromaterial,MAT-1053,160,14.79,2366.4,16,normal
+INV-ML-19,PO-920019,2025-09-24,Kappa Services,Werkzeuge,MAT-1026,652,80.28,52342.56,48,multivariater_ausreisser
+INV-100269,PO-500269,2025-06-21,Iota Plastics,Werkzeuge,MAT-1057,21,43.59,915.39,12,normal
+INV-100201,PO-500201,2025-04-22,Gamma Logistik AG,Bueromaterial,MAT-1066,207,15.87,3285.09,1,normal
+INV-100161,PO-500161,2025-03-17,Kappa Services,Verpackung,MAT-1036,99,2.11,208.89,12,normal
+INV-100555,PO-500555,2025-05-15,Theta Werkzeuge,Rohmaterial,MAT-1075,177,9.98,1766.46,11,normal
+INV-100729,PO-500729,2025-04-24,Delta Elektronik,Logistik,MAT-1001,174,248.84,43298.16,16,normal
+INV-100401,PO-500401,2025-07-08,Eta Industriebedarf,Werkzeuge,MAT-1057,90,53.09,4778.1,9,normal
+INV-100702,PO-500702,2025-10-05,Delta Elektronik,Verpackung,MAT-1030,154,2.63,405.02,16,normal
+INV-100476,PO-500476,2025-03-09,Gamma Logistik AG,Bueromaterial,MAT-1103,94,15.19,1427.86,17,normal
+INV-100105,PO-500105,2025-03-21,Kappa Services,Werkzeuge,MAT-1070,184,36.67,6747.28,8,normal
+INV-100565,PO-500565,2025-02-06,Epsilon Rohstoffe,Werkzeuge,MAT-1078,160,38.99,6238.4,18,normal
+INV-100389,PO-500389,2025-07-31,Alpha Components GmbH,Elektronik,MAT-1092,161,96.49,15534.89,14,normal
+INV-100001,PO-500001,2025-10-05,Theta Werkzeuge,Logistik,MAT-1094,162,221.87,35942.94,13,normal
+INV-DUP-11,PO-500682,2025-01-23,Eta Industriebedarf,Logistik,MAT-1069,167,294.01,49099.67,15,doppelte_rechnung
+INV-100561,PO-500561,2025-04-18,Zeta Verpackung,Bueromaterial,MAT-1065,206,17.3,3563.8,25,normal
+INV-100080,PO-500080,2025-09-24,Delta Elektronik,Bueromaterial,MAT-1088,170,17.44,2964.8,15,normal
+INV-100205,PO-500205,2025-12-10,Epsilon Rohstoffe,Logistik,MAT-1014,133,395.3,52574.9,12,normal
+INV-100034,PO-500034,2025-09-24,Theta Werkzeuge,Werkzeuge,MAT-1112,148,44.46,6580.08,18,normal
+INV-100508,PO-500508,2025-08-20,Iota Plastics,Werkzeuge,MAT-1074,95,55.85,5305.75,10,normal
+INV-100427,PO-500427,2025-03-06,Beta Metalltechnik,Rohmaterial,MAT-1098,19,8.68,164.92,11,normal
+INV-100454,PO-500454,2025-09-24,Zeta Verpackung,Werkzeuge,MAT-1118,93,49.77,4628.61,14,normal
+INV-100366,PO-500366,2025-04-01,Iota Plastics,Verpackung,MAT-1008,201,2.95,592.95,15,normal
+INV-100091,PO-500091,2025-10-11,Iota Plastics,Elektronik,MAT-1023,188,115.51,21715.88,12,normal
+INV-100339,PO-500339,2025-06-20,Delta Elektronik,Rohmaterial,MAT-1047,51,8.5,433.5,3,normal
+INV-100564,PO-500564,2025-04-01,Zeta Verpackung,Werkzeuge,MAT-1081,149,60.22,8972.78,12,normal
+INV-100345,PO-500345,2025-07-27,Theta Werkzeuge,Verpackung,MAT-1066,99,2.72,269.28,8,normal
+INV-100241,PO-500241,2025-01-03,Alpha Components GmbH,Logistik,MAT-1040,81,261.34,21168.54,16,normal
+INV-100013,PO-500013,2025-07-26,Alpha Components GmbH,Elektronik,MAT-1091,188,144.21,27111.48,14,normal
+INV-100315,PO-500315,2025-03-21,Delta Elektronik,Elektronik,MAT-1061,180,166.56,29980.8,16,normal
+INV-100600,PO-500600,2025-07-08,Iota Plastics,Rohmaterial,MAT-1107,30,7.4,222.0,10,normal
+INV-100387,PO-500387,2025-03-03,Gamma Logistik AG,Bueromaterial,MAT-1025,182,13.41,2440.62,19,normal
+INV-100273,PO-500273,2025-05-11,Delta Elektronik,Rohmaterial,MAT-1031,116,6.68,774.88,18,normal
+INV-100166,PO-500166,2025-06-30,Epsilon Rohstoffe,Rohmaterial,MAT-1103,204,6.29,1283.16,14,normal
+INV-ML-15,PO-920015,2025-08-03,Epsilon Rohstoffe,Verpackung,MAT-1019,756,6.57,4966.92,57,multivariater_ausreisser
+INV-100646,PO-500646,2025-11-30,Gamma Logistik AG,Logistik,MAT-1078,71,235.58,16726.18,2,normal
+INV-100484,PO-500484,2025-05-26,Kappa Services,Elektronik,MAT-1031,146,98.83,14429.18,17,normal
+INV-ML-4,PO-920004,2025-10-14,Iota Plastics,Elektronik,MAT-1044,542,296.37,160632.54,49,multivariater_ausreisser
+INV-100504,PO-500504,2025-03-02,Theta Werkzeuge,Rohmaterial,MAT-1070,65,9.84,639.6,18,normal
+INV-100243,PO-500243,2025-03-12,Kappa Services,Elektronik,MAT-1018,63,80.18,5051.34,20,normal
+INV-100566,PO-500566,2025-08-22,Theta Werkzeuge,Verpackung,MAT-1057,4,2.27,9.08,16,normal
+INV-100562,PO-500562,2025-04-29,Gamma Logistik AG,Elektronik,MAT-1065,141,65.19,9191.79,16,normal
+INV-100686,PO-500686,2025-10-16,Epsilon Rohstoffe,Bueromaterial,MAT-1007,73,17.67,1289.91,9,normal
+INV-100189,PO-500189,2025-02-08,Theta Werkzeuge,Logistik,MAT-1108,98,393.69,38581.62,10,normal
+INV-100699,PO-500699,2025-04-04,Iota Plastics,Elektronik,MAT-1058,167,138.96,23206.32,9,normal
+INV-100475,PO-500475,2025-06-13,Epsilon Rohstoffe,Rohmaterial,MAT-1031,145,8.74,1267.3,16,normal
+INV-100681,PO-500681,2025-12-14,Gamma Logistik AG,Elektronik,MAT-1023,206,120.33,24787.98,9,normal
+INV-100510,PO-500510,2025-10-28,Epsilon Rohstoffe,Rohmaterial,MAT-1073,39,7.68,299.52,16,normal
+INV-100058,PO-500058,2025-06-16,Beta Metalltechnik,Elektronik,MAT-1064,63,116.65,7348.95,12,normal
+INV-100474,PO-500474,2025-05-08,Alpha Components GmbH,Logistik,MAT-1090,132,237.16,31305.12,15,normal
+INV-100560,PO-500560,2025-11-20,Delta Elektronik,Logistik,MAT-1005,55,313.79,17258.45,10,normal
+INV-100747,PO-500747,2025-01-26,Zeta Verpackung,Elektronik,MAT-1100,187,124.14,23214.18,15,normal
+INV-100252,PO-500252,2025-04-08,Beta Metalltechnik,Rohmaterial,MAT-1068,108,7.64,825.12,19,normal
+INV-100021,PO-500021,2025-02-13,Delta Elektronik,Werkzeuge,MAT-1115,76,30.53,2320.28,15,normal
+INV-100313,PO-500313,2025-01-29,Zeta Verpackung,Verpackung,MAT-1093,159,3.0,477.0,9,normal
+INV-100459,PO-500459,2025-09-19,Epsilon Rohstoffe,Rohmaterial,MAT-1055,67,8.99,602.33,7,normal
+INV-100160,PO-500160,2025-11-07,Beta Metalltechnik,Logistik,MAT-1076,69,285.3,19685.7,19,normal
+INV-100276,PO-500276,2025-09-10,Zeta Verpackung,Bueromaterial,MAT-1017,166,18.87,3132.42,9,normal
+INV-100191,PO-500191,2025-05-18,Iota Plastics,Logistik,MAT-1086,217,414.3,89903.1,13,normal
+INV-100385,PO-500385,2025-11-21,Iota Plastics,Verpackung,MAT-1097,4,2.91,11.64,2,normal
+INV-100413,PO-500413,2025-07-04,Zeta Verpackung,Rohmaterial,MAT-1076,39,248.07,9674.82,12,knapp_unter_grenze
+INV-100491,PO-500491,2025-02-04,Theta Werkzeuge,Werkzeuge,MAT-1113,98,47.34,4639.32,5,normal
+INV-100343,PO-500343,2025-11-21,Iota Plastics,Bueromaterial,MAT-1109,97,1.14,110.58,11,preisabweichung
+INV-SPLIT-0-1,PO-880001,2025-03-24,Zeta Verpackung,Werkzeuge,MAT-1100,51,131.68,6715.49,15,auftragssplitting
+INV-100308,PO-500308,2025-07-07,Gamma Logistik AG,Rohmaterial,MAT-1023,69,7.43,512.67,20,normal
+INV-100661,PO-500661,2025-02-10,Delta Elektronik,Elektronik,MAT-1009,117,101.23,11843.91,14,normal
+INV-100130,PO-500130,2025-07-26,Alpha Components GmbH,Verpackung,MAT-1049,68,1.92,130.56,9,normal
+INV-100663,PO-500663,2025-12-13,Gamma Logistik AG,Logistik,MAT-1010,169,343.56,58061.64,17,normal
+INV-100099,PO-500099,2025-02-03,Theta Werkzeuge,Bueromaterial,MAT-1022,82,17.78,1457.96,8,normal
+INV-100372,PO-500372,2025-10-10,Theta Werkzeuge,Bueromaterial,MAT-1034,200,18.82,3764.0,12,normal
+INV-100087,PO-500087,2025-06-11,Alpha Components GmbH,Logistik,MAT-1036,70,203.92,14274.4,16,normal
+INV-100458,PO-500458,2025-07-05,Eta Industriebedarf,Logistik,MAT-1044,149,359.79,53608.71,18,normal
+INV-100330,PO-500330,2025-08-18,Iota Plastics,Logistik,MAT-1044,82,327.58,26861.56,7,normal
+INV-100214,PO-500214,2025-12-21,Epsilon Rohstoffe,Bueromaterial,MAT-1063,134,18.6,2492.4,15,normal
+INV-100466,PO-500466,2025-05-03,Gamma Logistik AG,Bueromaterial,MAT-1098,24,9.07,217.68,11,normal
+INV-100121,PO-500121,2025-11-28,Kappa Services,Verpackung,MAT-1005,54,2.12,114.48,6,normal
+INV-100614,PO-500614,2025-06-17,Theta Werkzeuge,Werkzeuge,MAT-1026,184,53.84,9907.33,22,knapp_unter_grenze
+INV-100020,PO-500020,2025-03-29,Delta Elektronik,Verpackung,MAT-1082,98,2.46,241.08,5,normal
+INV-100700,PO-500700,2025-12-09,Theta Werkzeuge,Elektronik,MAT-1017,13,150.39,1955.07,15,normal
+INV-100071,PO-500071,2025-10-21,Zeta Verpackung,Werkzeuge,MAT-1063,45,49.39,2222.55,14,normal
+INV-100106,PO-500106,2025-06-24,Epsilon Rohstoffe,Bueromaterial,MAT-1017,8,14.12,112.96,9,normal
+INV-100270,PO-500270,2025-06-23,Zeta Verpackung,Verpackung,MAT-1055,14,3.27,45.78,9,normal
+INV-100435,PO-500435,2025-03-20,Kappa Services,Verpackung,MAT-1103,22,3.02,66.44,13,normal
+INV-100102,PO-500102,2025-02-27,Beta Metalltechnik,Rohmaterial,MAT-1055,143,9.67,1382.81,15,normal
