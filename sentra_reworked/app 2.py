@@ -9,7 +9,7 @@ import detection
 
 PRODUCT = "SENTRA"
 TAGLINE = "Procurement Anomaly Intelligence"
-
+DATA_PATH = Path("data/beschaffungsdaten.csv")
 
 st.set_page_config(page_title=f"{PRODUCT} – {TAGLINE}", layout="wide")
 
