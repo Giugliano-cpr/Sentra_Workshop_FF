@@ -7,6 +7,8 @@ import plotly.express as px
 import streamlit as st
 import detection
 
+BASE_DIR = Path(__file__).resolve().parent 
+
 PRODUCT = "SENTRA"
 TAGLINE = "Procurement Anomaly Intelligence"
 DATA_PATH = BASE_DIR / "data" / "beschaffungsdaten.csv"
