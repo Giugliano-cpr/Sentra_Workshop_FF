@@ -43,7 +43,7 @@ def apply_css() -> None:
         """
         <style>
         #MainMenu, footer, [data-testid="stToolbar"] {display:none;}
-        .block-container {max-width: 1240px; padding-top: 1.3rem;}
+        .block-container {max-width: 1240px; padding-top: 3rem;}
         h1, h2, h3 {letter-spacing: -0.02em;}
         .hero {border-bottom: 1px solid #E6E8EB; margin-bottom: 1.2rem; padding-bottom: 1rem;}
         .brand {font-size: 2rem; font-weight: 700; letter-spacing: .18em; color: #0F172A;}
